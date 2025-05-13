@@ -52,7 +52,7 @@ function LogIn() {
 					<div className='react-reveal pv4-5 ph4 ph4-5-l center-l relative'>
 		
 						<div className='f4 f3-m f3-l fw7 lh-title tracked-condensed mb3'>Log In</div>
-						<div className='f5 f5-m f4-l lh-copy mb3'>to continue to Octatradeglobal</div>
+						<div className='f5 f5-m f4-l lh-copy mb3'>to continue to yourtrade</div>
 						<form onSubmit={loginRequest}>
 							<div className='mb3'>
 								<div className='l-formContent'>
@@ -119,12 +119,12 @@ function LogIn() {
 									<div className='dn-ns' />
 								</div>
 								<div className='flex'>
-									<a className='[#0018A8] fw5' href='https://www.dashboard.octatradeglobal.com/terms' target='_BLANK' rel='noreferrer'>
+									<a className='[#0018A8] fw5' href='https://www.dashboard.yourtrade.com/terms' target='_BLANK' rel='noreferrer'>
 										Terms
 									</a>
 									<a
 										className='ml3 [#0018A8] fw5'
-										href='https://www.dashboard.octatradeglobal.com/privacy'
+										href='https://www.dashboard.yourtrade.com/privacy'
 										target='_BLANK'
 										rel='noreferrer'>
 										Privacy

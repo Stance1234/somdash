@@ -30,10 +30,10 @@ async function handler(req, res) {
 			let htmlData = await getTemplate(req, "email-verification", "change.html")
 			htmlData = htmlData.replaceAll("[name]", user.firstname)
 			// htmlData = htmlData.replaceAll("[code]", pin)
-			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Octa Trade Global")
+			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
 
 			await transporter.sendMail({
-				from: "Octa Trade Global", // sender address
+				from: "Your Trader", // sender address
 				to: email, // list of receivers
 				subject: "E-mail Address Changed", // Subject line
 				text: `This email is to notify you that your email address was recently changed.

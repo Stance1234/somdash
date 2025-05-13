@@ -173,7 +173,7 @@ function MiningAbout() {
 				<section className='bg app-py-3'>
 					<div className='container'>
 						<center>
-							<h2>Why Octatradeglobal?</h2>
+							<h2>Why yourtrade?</h2>
 							<br />
 							<span>We are making mining accessible to everyone.</span>
 							<br />

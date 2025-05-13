@@ -152,7 +152,7 @@ function PortfolioManagement() {
 								<div className='measure-wide2 center pr4-l mb3 mb0-l'>
 									<h1 className='f2 fw4 lh-title mb3'>Digital asset accounting made simple</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Inc. Broker Portfolio is designed to make the process of transaction resolution—defining
+										Your Trader Inc. Broker Portfolio is designed to make the process of transaction resolution—defining
 										the type and cost basis of individual transactions—more accurate, efficient, and scalable.
 										The system&apos;s Auto Resolution, Smart Resolution, and Manual Resolution capabilities
 										work in conjunction to provide clients with more control over internal accounting
@@ -1522,7 +1522,7 @@ function PortfolioManagement() {
 								<div className='measure-wide2 center '>
 									<h1 className='f2 fw4 lh-title mb3'>A robust reporting experience</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Inc. Broker Portfolio allows users to produce a wide variety of comprehensive reports
+										Your Trader Inc. Broker Portfolio allows users to produce a wide variety of comprehensive reports
 										organized by portfolio, holdings, and line items. Filter by transaction type, asset,
 										account, and key dates to create more focus. Generate on-demand reports to support a range
 										of workflows—from capturing daily holding snapshots to tracking expenses related to
@@ -1539,7 +1539,7 @@ function PortfolioManagement() {
 							<div>
 								<h1 className='f2 fw4 lh-title mb3 measure-narrow white'>Bridging the ecosystem</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3 white'>
-									Octa Trade Global Inc. Broker Portfolio supports more than 30 different transaction types including fund
+									Your Trader Inc. Broker Portfolio supports more than 30 different transaction types including fund
 									subscriptions and redemptions, digital asset purchases and sales, mining activity, forks, and
 									loans across a broad range of exchanges, blockchain wallets, and service providers. Moreover,
 									clients have the ability to manually upload historical data via our intuitive CSV Upload
@@ -1871,7 +1871,7 @@ function PortfolioManagement() {
 											/>
 										</div>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Octa Trade Global Inc. Broker is one of the earliest and most respected firms in the space, and that
+											Your Trader Inc. Broker is one of the earliest and most respected firms in the space, and that
 											reputation was really important to us for our custody provider.
 										</div>
 										<div className='lh-copy black-70'>

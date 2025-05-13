@@ -15,11 +15,11 @@ function PriceFeeds() {
 							<div className='mb5'>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									<a
-										href='https://Octatradeglobal.github.io/Octatradeglobal-docs/'
+										href='https://yourtrade.github.io/yourtrade-docs/'
 										className='[#0018A8] no-underline'
 										target='_BLANK'
 										rel='noopener noreferrer'>
-										Octa Trade Global Inc. Broker Platform V1
+										Your Trader Inc. Broker Platform V1
 									</a>{" "}
 									transactions will be assessed a notional USD value using the Tradeblock XBX Index rate at the
 									time of the transaction. See Tradeblock&apos;s constituent prices and more information about the
@@ -35,11 +35,11 @@ function PriceFeeds() {
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									<a
-										href='https://app.dashboard.octatradeglobal.com/docs/'
+										href='https://app.dashboard.yourtrade.com/docs/'
 										className='[#0018A8] no-underline'
 										target='_BLANK'
 										rel='noopener noreferrer'>
-										Octa Trade Global Inc. Broker Platform V2
+										Your Trader Inc. Broker Platform V2
 									</a>{" "}
 									transactions will be assessed a notional USD value using the BitcoinAverage rate at the time of
 									the transaction. See BitcoinAverage&apos;s methodology{" "}
@@ -55,7 +55,7 @@ function PriceFeeds() {
 							</div>
 							<div className='mb5'>
 								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>
-									Octa Trade Global Inc. Broker Billing Methodology
+									Your Trader Inc. Broker Billing Methodology
 								</h4>
 								<div className='mb4'>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
@@ -81,11 +81,11 @@ function PriceFeeds() {
 								</div>
 								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Preservation of Value</h4>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									Octa Trade Global Inc. Broker also intends to preserve value for customers. When forks occur with significant
-									value, Octa Trade Global Inc. Broker will work with customers to attempt to deliver that new value to customers.
-									This may or may not mean that Octa Trade Global Inc. Broker can support the coin as a fully featured wallet with
-									all the security principles that Octa Trade Global Inc. Broker generally tries to maintain. It may mean that
-									Octa Trade Global Inc. Broker provides customers with tools such that they can access the coin and convert it to
+									Your Trader Inc. Broker also intends to preserve value for customers. When forks occur with significant
+									value, Your Trader Inc. Broker will work with customers to attempt to deliver that new value to customers.
+									This may or may not mean that Your Trader Inc. Broker can support the coin as a fully featured wallet with
+									all the security principles that Your Trader Inc. Broker generally tries to maintain. It may mean that
+									Your Trader Inc. Broker provides customers with tools such that they can access the coin and convert it to
 									other forms of value.
 								</div>
 							</div>

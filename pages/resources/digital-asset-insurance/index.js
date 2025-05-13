@@ -25,7 +25,7 @@ function DigitalAssetInsurance() {
 								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>250 million USD</h3>
 								<div className='lh-copy black-70'>
 									For digital assets with option to purchase additional excess insurance upon request to
-									supplement Octatradeglobal&apos;s $250 million policy.
+									supplement yourtrade&apos;s $250 million policy.
 								</div>
 							</div>
 						</div>
@@ -44,7 +44,7 @@ function DigitalAssetInsurance() {
 								<div className='f7 gray fw6 mb3'>Cost of insurance</div>
 								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>None</h3>
 								<div className='lh-copy black-70'>
-									There is no additional cost to Octa Trade Global Inc. Broker Trust Company or Octatradeglobal, Inc. clients. Octa Trade Global Inc. Broker
+									There is no additional cost to Your Trader Inc. Broker Trust Company or yourtrade, Inc. clients. Your Trader Inc. Broker
 									will pay any and all deductibles. Fees will apply for any excess customer insurance purchased
 									beyond the $250 million policy.
 								</div>
@@ -58,12 +58,12 @@ function DigitalAssetInsurance() {
 							<div className='mb5'>
 								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>What is covered?</h3>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									The $250 million policy covers digital assets where the private keys are held 100% by Octatradeglobal
-									Broker Trust Company or Octatradeglobal, Inc. in the event of:
+									The $250 million policy covers digital assets where the private keys are held 100% by yourtrade
+									Broker Trust Company or yourtrade, Inc. in the event of:
 									<ul className='ml4 mt2'>
 										<li className='mb2'>Copying and theft of private keys</li>
 										<li className='mb2'>
-											Insider theft or dishonest acts by Octa Trade Global Inc. Broker employees or executives
+											Insider theft or dishonest acts by Your Trader Inc. Broker employees or executives
 										</li>
 										<li className='mb2'>Loss of keys</li>
 									</ul>
@@ -71,7 +71,7 @@ function DigitalAssetInsurance() {
 							</div>
 							<div className='mb5'>
 								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>
-									Octa Trade Global Inc. Broker Security Architecture Limits Risk
+									Your Trader Inc. Broker Security Architecture Limits Risk
 								</h3>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									Our security architecture is engineered in a manner that is intended to prevent a breach
@@ -79,7 +79,7 @@ function DigitalAssetInsurance() {
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									<ul className='ml3 pl2'>
-										<li className='mb2'>Octa Trade Global Inc. Broker maintains segregated wallets for each client.</li>
+										<li className='mb2'>Your Trader Inc. Broker maintains segregated wallets for each client.</li>
 										<li className='mb2'>
 											Each wallet is multi-signature with keys that are secured offline in purpose-built,
 											Class III bank vaults.
@@ -92,7 +92,7 @@ function DigitalAssetInsurance() {
 											to 48 hours because of the policy and process checks.
 										</li>
 										<li className='mb2'>
-											Octa Trade Global Inc. Broker Trust Company has policies and procedures for changing personnel,
+											Your Trader Inc. Broker Trust Company has policies and procedures for changing personnel,
 											restoring systems in the event of local failures, as well as strong audit logging
 											and access controls.
 										</li>
@@ -105,25 +105,25 @@ function DigitalAssetInsurance() {
 									distributed?
 								</h3>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									Octa Trade Global Inc. Broker will make best efforts to distribute insurance recoveries across all clients who
+									Your Trader Inc. Broker will make best efforts to distribute insurance recoveries across all clients who
 									have suffered losses. In the event that total losses exceed insurance recoveries this does not
-									change Octatradeglobal&apos;s legal obligations outlined in customer agreements.
+									change yourtrade&apos;s legal obligations outlined in customer agreements.
 								</div>
 							</div>
 							<div className='mb5'>
 								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Additional Insurance Options</h3>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									Octa Trade Global Inc. Broker is collaborating with insurance broker Woodruff Sawyer to help clients that are
-									interested in purchasing their own additional insurance. Octa Trade Global Inc. Broker Business Wallet clients
+									Your Trader Inc. Broker is collaborating with insurance broker Woodruff Sawyer to help clients that are
+									interested in purchasing their own additional insurance. Your Trader Inc. Broker Business Wallet clients
 									will be able to purchase key recovery service (KRS) insurance and additional insurance for their
 									self-custody keys through third-party company Digital Asset Services.
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									As of May 2021, over $600 million excess insurance has been put in place for specific Octatradeglobal
+									As of May 2021, over $600 million excess insurance has been put in place for specific yourtrade
 									Broker clients. Learn more{" "}
 									<a
 										className='[#0018A8]'
-										href='/newsroom/press-releases/Octatradeglobal-secures-over-700-million-of-cold-storage-insurance-capacity'>
+										href='/newsroom/press-releases/yourtrade-secures-over-700-million-of-cold-storage-insurance-capacity'>
 										press release
 									</a>{" "}
 									or contact your account manager.

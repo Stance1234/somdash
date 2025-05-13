@@ -71,7 +71,7 @@ function UserFooter() {
 										/>
 									</div>
 									<div className='silver lh-copy f7'>
-										We&apos;re committed to your privacy. Octa Trade Global Inc Broker uses the information you provide to us
+										We&apos;re committed to your privacy. Your Trader Inc Broker uses the information you provide to us
 										to contact you about our relevant content, products, and services. You may unsubscribe
 										from these communications at any time. For more information, check out our
 										<Link href='/legal/privacy'>
@@ -90,14 +90,14 @@ function UserFooter() {
 							</div>
 							<a
 								className='fw6 white-80 hover-color-[#0018A8] no-underline db pv1 pointer mb4'
-								href='mailto:support@octatradeglobal.com'>
-								support@octatradeglobal.com
+								href='mailto:support@yourtrade.com'>
+								support@yourtrade.com
 							</a>
 
 							<a
 								className='fw6 white-80 hover-color-[#0018A8] no-underline db pv1 pointer mb4'
-								href='mailto:support@octatradeglobal.com'>
-								support@octatradeglobal.com
+								href='mailto:support@yourtrade.com'>
+								support@yourtrade.com
 							</a>
 						</div>
 					</div>
@@ -186,7 +186,7 @@ function UserFooter() {
 									<a
 										target='_BLANK'
 										rel='noopener noreferrer'
-										href='https://blog.dashboard.octatradeglobal.com/'
+										href='https://blog.dashboard.yourtrade.com/'
 										className='social-icon'
 										aria-label='medium'
 										style={{
@@ -247,7 +247,7 @@ function UserFooter() {
 									</a>
 								</div>
 								<div className='mr2'>
-									<a href='https://twitter.com/Octatradeglobal' target='_BLANK' rel='noopener noreferrer'>
+									<a href='https://twitter.com/yourtrade' target='_BLANK' rel='noopener noreferrer'>
 										<svg viewBox='0 0 64 64' width={25} height={25}>
 											<circle cx={32} cy={32} r={31} fill='#00aced' />
 											<path
@@ -322,7 +322,7 @@ function UserFooter() {
 									</a>
 								</div>
 								<div className='mr2'>
-									<a href='https://www.linkedin.com/company/Octatradeglobal-inc' target='_BLANK' rel='noopener noreferrer'>
+									<a href='https://www.linkedin.com/company/yourtrade-inc' target='_BLANK' rel='noopener noreferrer'>
 										<svg viewBox='0 0 64 64' width={25} height={25}>
 											<circle cx={32} cy={32} r={31} fill='#007fb1' />
 											<path
@@ -395,7 +395,7 @@ function UserFooter() {
 									<div className='bp3-collapse-body bp3-fixed-positioning-containing-block' aria-hidden='false' />
 								</div>
 								<div className='silver lh-copy f7'>
-									We&apos;re committed to your privacy. Octa Trade Global uses the information you provide to us to contact
+									We&apos;re committed to your privacy. Your Trader uses the information you provide to us to contact
 									you about our relevant content, products, and services. You may unsubscribe from these
 									communications at any time. For more information, check out our
 									<Link href='/legal/privacy'>
@@ -559,14 +559,14 @@ function UserFooter() {
 							<span>Inquiries</span>
 						</div>
 
-						<a className='fw6 white-80 hover-color-[#0018A8] no-underline db pv1 pointer mb2' href='mailto:sales@Octatradeglobalbroker.com'>
-							sales@Octatradeglobalbroker.com
+						<a className='fw6 white-80 hover-color-[#0018A8] no-underline db pv1 pointer mb2' href='mailto:sales@yourtradebroker.com'>
+							sales@yourtradebroker.com
 						</a>
 
 						<a
 							className='fw6 white-80 hover-color-[#0018A8] no-underline db pv1 pointer mb2'
-							href='mailto:support@octatradeglobal.com'>
-							support@octatradeglobal.com
+							href='mailto:support@yourtrade.com'>
+							support@yourtrade.com
 						</a>
 
 						<div>
@@ -582,7 +582,7 @@ function UserFooter() {
 								<a
 									target='_BLANK'
 									rel='noopener noreferrer'
-									href='https://blog.dashboard.octatradeglobal.com/'
+									href='https://blog.dashboard.yourtrade.com/'
 									className='social-icon'
 									aria-label='medium'
 									style={{
@@ -643,7 +643,7 @@ function UserFooter() {
 								</a>
 							</div>
 							<div className='mr2'>
-								<a href='https://twitter.com/Octatradeglobal' target='_BLANK' rel='noopener noreferrer'>
+								<a href='https://twitter.com/yourtrade' target='_BLANK' rel='noopener noreferrer'>
 									<svg viewBox='0 0 64 64' width={25} height={25}>
 										<circle cx={32} cy={32} r={31} fill='#00aced' />
 										<path
@@ -718,7 +718,7 @@ function UserFooter() {
 								</a>
 							</div>
 							<div className='mr2'>
-								<a href='https://www.linkedin.com/company/Octatradeglobal-inc/' target='_BLANK' rel='noopener noreferrer'>
+								<a href='https://www.linkedin.com/company/yourtrade-inc/' target='_BLANK' rel='noopener noreferrer'>
 									<svg viewBox='0 0 64 64' width={25} height={25}>
 										<circle cx={32} cy={32} r={31} fill='#007fb1' />
 										<path
@@ -738,10 +738,10 @@ function UserFooter() {
 			</div>
 			<div className='center ph4 mw8-5 w-100 pt2'>
 				<div className='silver f7 pb5 pt4 lh-copy'>
-					©2023 Octa Trade Global Inc Broker. All rights reserved.
+					©2023 Your Trader Inc Broker. All rights reserved.
 					<br />
 					<br />
-					No legal, tax, investment, or other advice is provided by any Octa Trade Global Inc Broker entity. Please consult your
+					No legal, tax, investment, or other advice is provided by any Your Trader Inc Broker entity. Please consult your
 					legal/tax/investment professional for questions about your specific circumstances. Digital asset holdings involve a high
 					degree of risk, and can fluctuate greatly on any given day. Accordingly, your digital asset holdings may be subject to
 					large swings in value and may even become worthless.

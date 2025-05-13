@@ -7,7 +7,7 @@ function Help() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>FAQs - Octatradeglobal</title>
+				<title>FAQs - yourtrade</title>
 			</Head>
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
 				<h1 className='center app-relative dark-text'>FAQs</h1>

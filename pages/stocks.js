@@ -5,7 +5,7 @@ function Stocks() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>Stocks for Your Portfolio - Octatradeglobal</title>
+				<title>Stocks for Your Portfolio - yourtrade</title>
 			</Head>
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
 				<h1 className='center app-relative white-dark'>Stocks for Your Portfolio</h1>

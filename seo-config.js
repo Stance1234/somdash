@@ -1,41 +1,41 @@
 const SEO = {
-	title: "Octatradeglobal",
+	title: "yourtrade",
 	titleTemplate:
 	  "%s | Best investment platform for investing in stock, crypto, or copytrading.",
-	defaultTitle: "Octa Trade Global",
+	defaultTitle: "Your Trader",
 	description:
-	  "Octa Trade Global is the best investment platform for investing in stocks, crypto, or copytrading. The user friendly interface makes it easy for anyone to quickly start making profits by using our tools and strategies.",
-	// canonical: "https://www.dashboard.octatradeglobal.com/",
+	  "Your Trader is the best investment platform for investing in stocks, crypto, or copytrading. The user friendly interface makes it easy for anyone to quickly start making profits by using our tools and strategies.",
+	// canonical: "https://www.dashboard.yourtrade.com/",
 	openGraph: {
 	  type: "website",
 	  locale: "en_IE",
-	  url: "https://www.dashboard.octatradeglobal.com/",
-	  title: "Octa Trade Global investment platform",
+	  url: "https://www.dashboard.yourtrade.com/",
+	  title: "Your Trader investment platform",
 	  description:
-		"Octa Trade Global is the best investment platform for investing in stocks, crypto, or copytrading with ease.",
+		"Your Trader is the best investment platform for investing in stocks, crypto, or copytrading with ease.",
 	  images: [
 		{
-		  url: "https://dashboard.octatradeglobal.com/wp-content/uploads/2020/07/favicon.png",
+		  url: "https://dashboard.yourtrade.com/wp-content/uploads/2020/07/favicon.png",
 		  width: 800,
 		  height: 600,
-		  alt: "Octatradeglobal",
+		  alt: "yourtrade",
 		  type: "image/png",
 		},
 		{
-		  url: "https://dashboard.octatradeglobal.com/wp-content/uploads/2020/07/favicon.png",
+		  url: "https://dashboard.yourtrade.com/wp-content/uploads/2020/07/favicon.png",
 		  width: 900,
 		  height: 800,
-		  alt: "Octatradeglobal",
+		  alt: "yourtrade",
 		  type: "image/png",
 		},
 		{
-		  url: "https://dashboard.octatradeglobal.com/wp-content/uploads/2020/07/favicon.png",
+		  url: "https://dashboard.yourtrade.com/wp-content/uploads/2020/07/favicon.png",
 		},
 		{
-		  url: "https://dashboard.octatradeglobal.com/wp-content/uploads/2020/07/favicon.png",
+		  url: "https://dashboard.yourtrade.com/wp-content/uploads/2020/07/favicon.png",
 		},
 	  ],
-	  site_name: "Octatradeglobal",
+	  site_name: "yourtrade",
 	},
 	// twitter: {
 	// 	handle: "@handle",
@@ -45,11 +45,11 @@ const SEO = {
 	additionalLinkTags: [
 	  {
 		rel: "icon",
-		href: "https://dashboard.octatradeglobal.com/wp-content/uploads/2020/07/favicon.png",
+		href: "https://dashboard.yourtrade.com/wp-content/uploads/2020/07/favicon.png",
 	  },
 	  {
 		rel: "apple-touch-icon",
-		href: "https://dashboard.octatradeglobal.com/wp-content/uploads/2022/01/Octatradeglobal-capital-logo.png",
+		href: "https://dashboard.yourtrade.com/wp-content/uploads/2022/01/yourtrade-capital-logo.png",
 		sizes: "76x76",
 	  },
 	  {

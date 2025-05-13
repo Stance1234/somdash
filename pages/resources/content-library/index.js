@@ -26,7 +26,7 @@ function ContentLibrary() {
 								<img
 									aria-hidden='true'
 									src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNElEQVQoz41S7VKDMBDk8XwBn9HncPyhVesPbElK+Eg7U7VASbIk+tdcahRty8jMzt7thQ3cXaK1htYGxMYQDvEhP47H2qlziYWB9UYw06b/Nlx3GnJv0Chf8IL6Kiiljl4cI9aJI4Lh5fUWFzONq0IB7Q6vTYft2w5d38M5B2stBg9iygnDMPzK47lgWLcKVWfw0vWQIse6riDLAlUhQlx7llWJFcvAGUOe5yjLEkVRBAghgial/Onhu0ffK9w8c9wvOG5Thrs0w5wJPGQCqagxI/1xjny1wnqzCSac8wDmL6JLgmHs2d5P+qmxWHYWaevA9g7LdvCxBffawvPWOHw4C3rGvxza4tsQDGmqtDbENO1hDE1Q37k5May/eXJuFeJ+qlEc93UKCZmdwtRin/sA0j8BJdHk0tJp10EAAAAASUVORK5CYII='
-									alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+									alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 									style={{
 										position: "absolute",
 										top: 0,
@@ -50,7 +50,7 @@ function ContentLibrary() {
 									/>
 									<img
 										src='/static/d4c54e99b1a3c17f8e4a6101327717b1/497c6/white-paper-insurance.png'
-										alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+										alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 										loading='lazy'
 										style={{
 											position: "absolute",
@@ -84,7 +84,7 @@ function ContentLibrary() {
 								<img
 									aria-hidden='true'
 									src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABFElEQVQoz61SWU7DMBD1/QUn4QKcgT9+CpS2WZzFS+IkbUhptofHlSmqKJuwNJr3xrPaw/DPh03zDJL5E6Hj9Y8TXrqYLxT5Ttj1zR2ubhdYhwK7toWpt9BlhWEc/zZyrBpw06HZvSDKJaJMgguNTJcQNnFsMXFpsTI1RFGh279aXkNXjeOZNtCmwaEfTiP3w4CHgOM5zmxihacwQWiTp6p0muxkC1KJRBbOHufa2ddJ7jQ1xabp+Oj7Q49llLqO7peBC17xo3OQCqxswCYR4FJjsYmdL3HSj9Y3LwzGaQLzv0jtUmUahaoRJicqQOI5jUcFaArqkiTKFLZtd/rl367GV5vBPu6b30d6hnd8pj0+5z7PG4DtBi2/iRzLAAAAAElFTkSuQmCC'
-									alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+									alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 									style={{
 										position: "absolute",
 										top: 0,
@@ -108,7 +108,7 @@ function ContentLibrary() {
 									/>
 									<img
 										src='/static/d992ac261ab8de6494951e73387bc142/497c6/white-paper-wallet-security.png'
-										alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+										alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 										loading='lazy'
 										style={{
 											position: "absolute",
@@ -147,7 +147,7 @@ function ContentLibrary() {
 										<img
 											aria-hidden='true'
 											src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArUlEQVQoz5WS2Q6DIBRE+f9PLGnsEtvcFmIfZKkCU7XWWBfEeSHMTQ4zNzBEFEKYOphZE7EY7Ac0WqPUBuE7WHhoAziGtQCSBQ5S/83WoCzSd6jn6hpV7frS2JdwSNBdPB6qAlmPyhrkLwXn3Mp+tyr3KU8kUSgLbd84irJ5w+8DTneUXy84Zxk456D7bb7jVGArpRSeQkBICdGcRNR5MShL/4NxPynhuP6Sv6QP4KUX6ga99VQAAAAASUVORK5CYII='
-											alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+											alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 											style={{
 												position: "absolute",
 												top: 0,
@@ -171,7 +171,7 @@ function ContentLibrary() {
 											/>
 											<img
 												src='/static/f70498ff9724b4f6f6f514fb669cadb7/497c6/white-paper-p2sh-address.png'
-												alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+												alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 												loading='lazy'
 												style={{
 													position: "absolute",
@@ -225,7 +225,7 @@ function ContentLibrary() {
 										<img
 											aria-hidden='true'
 											src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA8klEQVQoz31RyQqFMAzs//+XF4/uKyiKevHijqh5bwKVWpdASDMmYyYR9LfjOEja2/spVzEZhQp8vfd9v2E62YWwbVuyLIuSJKGyLMl1XcrznKIooqIoyPd9fsOzLKMwDBmD931/Eos3mTJO08QNXdfRsiy3mlfJuhRIhGEawzDINE2eVK/TycXXwmEgHseRfdu2x5rbDiUAaWiEtGEYWO48z5yv68q5dPkTdQ08ocqOBXuex4cJguDM5UGAIeJgwHHEqqqeCRHTNOXCOI6ZFI22bfNFVWLkIMe3uq7fCXEAkKDBcZyTCBHNwNQp4U3TXAh/Odz+4VgtNHYAAAAASUVORK5CYII='
-											alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+											alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 											style={{
 												position: "absolute",
 												top: 0,
@@ -249,7 +249,7 @@ function ContentLibrary() {
 											/>
 											<img
 												src='/static/24326e4d37093a5761bb73a6d47a6710/497c6/white-paper-bitcoin.png'
-												alt='Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax'
+												alt='Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax'
 												loading='lazy'
 												style={{
 													position: "absolute",
@@ -289,7 +289,7 @@ function ContentLibrary() {
 										<img
 											aria-hidden='true'
 											src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIklEQVQoz61Sy26EMAzc//+rHhBCAg5w6Eos7/LaUhIexyXT2AtRDt320sNoYo/jjDEXKeVjnudd8078G6QklsxUf8K+f9EHpQEdgPgVSJ/5/ORFx8uymHusa3DDI6l0gdq2jbGuK8cnH3XMUnM/SlUUhbrf70YnGIeUHIYBSZJAF6JtW+hiZsqTm6cTCaFdOsmMt6jGOH5iNtrh8AgUXY6iCJ7nMeI4RhiG/Ig92vg1IcgXuNkGIY7Pcuhm5GmalOu6CIKAG/m+D8dxGJRvmoZdCiGQpiluWYG8/ECWZbB3YBqSw77vUVWVGbPrOuR5jrIsuRHVEVN8vb4jS28/NzxHPpdwLsJe0rkQYtLrulbaKce2Zm/5T9h1NP6r32b/T3wDZ/HvhdUUPFIAAAAASUVORK5CYII='
-											alt='Octa Trade Global Inc. Broker Patent Pledge'
+											alt='Your Trader Inc. Broker Patent Pledge'
 											style={{
 												position: "absolute",
 												top: 0,
@@ -314,7 +314,7 @@ function ContentLibrary() {
 											/>
 											<img
 												src='/static/740d463307fe279f60f82f30f584e7ff/497c6/patent-pledge.png'
-												alt='Octa Trade Global Inc. Broker Patent Pledge'
+												alt='Your Trader Inc. Broker Patent Pledge'
 												loading='lazy'
 												style={{
 													position: "absolute",
@@ -331,10 +331,10 @@ function ContentLibrary() {
 										</picture>
 									</div>
 									<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2 dark-gray'>
-										Octa Trade Global Inc. Broker Patent Pledge
+										Your Trader Inc. Broker Patent Pledge
 									</h4>
 									<div className='lh-copy black-70 mb2'>
-										Octa Trade Global Inc. Broker Holdings, Inc hereby pledges that it will not initiate patent lawsuits
+										Your Trader Inc. Broker Holdings, Inc hereby pledges that it will not initiate patent lawsuits
 										against anyone who, in good faith, wants to use its technology.
 									</div>
 									<div className='f6 f5-l black-80 fw6 no-underline'>

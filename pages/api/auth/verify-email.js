@@ -34,13 +34,13 @@ import getTemplate from "../../../lib/get-email-template"
 // 			htmlData = htmlData.replaceAll("[title]", "introduction")
 // 			htmlData = htmlData.replaceAll("[position]", "Chief Marketing Officer")
 // 			htmlData = htmlData.replaceAll("[name of employee]", "Mrs Olivia")
-// 			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Octa Trade Global")
+// 			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
 
 // 			await transporter.sendMail({
 // 				from: "support@octainvtradings.com", // sender address
 // 				to: email, // list of receivers
 // 				subject: "Welcome", // Subject line
-// 				text: `Welcome to Octa Trade Global`, // plain text body
+// 				text: `Welcome to Your Trader`, // plain text body
 // 				html: htmlData, // html body
 // 			})
 
@@ -85,13 +85,13 @@ async function handler(req, res) {
             htmlData = htmlData.replaceAll("[title]", "introduction")
             htmlData = htmlData.replaceAll("[position]", "Chief Marketing Officer")
             htmlData = htmlData.replaceAll("[name of employee]", "Mrs Olivia")
-            htmlData = htmlData.replace(/\[brand\s+name\]/g, "Octa Trade Global")
+            htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
 
             await transporter.sendMail({
-                from: "support@octatradeglobal.com", // sender address
+                from: "support@yourtrade.com", // sender address
                 to: email, // list of receivers
                 subject: "Welcome", // Subject line
-                text: `Welcome to Octa Trade Global`, // plain text body
+                text: `Welcome to Your Trader`, // plain text body
                 html: htmlData, // html body
             })
 

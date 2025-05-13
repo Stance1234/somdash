@@ -51,9 +51,9 @@ export default function WalletPlatform() {
 											animationName: "react-reveal-9790755799110-1",
 										}}>
 										<div className='mb4-l mb3 f4-l f5 fw3 lh-copy css-xmtlc8 black-90'>
-											Octatradeglobal&apos;s wallet platform creates an ideal balance between security and
+											yourtrade&apos;s wallet platform creates an ideal balance between security and
 											accessibility—enabling clients to move assets seamlessly and reliably, protected by
-											Octatradeglobal&apos;s pioneering multi-key security, multi-user policy controls, and advanced
+											yourtrade&apos;s pioneering multi-key security, multi-user policy controls, and advanced
 											security configurations.
 										</div>
 									</div>
@@ -84,9 +84,9 @@ export default function WalletPlatform() {
 									<div className='measure-wide2 center mb3 mb0-l'>
 										<h1 className='f2 fw4 lh-title mb3'>Security designed to fit your needs</h1>
 										<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-											Octa Trade Global Inc. Broker offers flexible wallet security and transaction policy features to address a
+											Your Trader Inc. Broker offers flexible wallet security and transaction policy features to address a
 											range of business needs. Protect your wallet against any single point of failure
-											with Octatradeglobal&apos;s multi-key security. Enforce controls and policies using
+											with yourtrade&apos;s multi-key security. Enforce controls and policies using
 											whitelists, velocity limits, and administrative approvals.
 										</div>
 									</div>
@@ -135,7 +135,7 @@ export default function WalletPlatform() {
 												className='l-marketingIcon l-marketingIcon--clear mb2'
 												alt=''
 											/>
-											<h6 className='f6 fw6 lh-title black-70 mb1 white'>Octa Trade Global Inc. Broker Key</h6>
+											<h6 className='f6 fw6 lh-title black-70 mb1 white'>Your Trader Inc. Broker Key</h6>
 											<div className='lh-copy f7'>
 												Used to <span className='fw6 white'>co-sign</span> all transactions only after
 												policy controls have been met.
@@ -159,10 +159,10 @@ export default function WalletPlatform() {
 												<div className='measure-wide2 center'>
 													<h1 className='f2 fw4 lh-title mb3'>SOC 2 Type 2</h1>
 													<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-														Octa Trade Global Inc. Broker Inc. has successfully completed a SOC 2 Type 2 audit for its
+														Your Trader Inc. Broker Inc. has successfully completed a SOC 2 Type 2 audit for its
 														hot wallet platform. We are committed to securely managing your
 														data and protecting both the interests of your organization and
-														the privacy of your clients. Octa Trade Global Inc. Broker has established and follows
+														the privacy of your clients. Your Trader Inc. Broker has established and follows
 														strict policies and procedures encompassing information security,
 														processing, integrity, and confidentiality to provide the highest
 														quality solutions and the safest, most secure environment for your
@@ -203,11 +203,11 @@ export default function WalletPlatform() {
 						<div className='cf nmh4 flex-l'>
 							<div className='fl ph4 w-100 flex-l items-center justify-center w-50-l'>
 								<div className='measure-wide2 center pv6-l mb3 mb0-l'>
-									<h1 className='f2 fw4 lh-title mb3'>Octa Trade Global Inc. Broker NFT Wallet</h1>
+									<h1 className='f2 fw4 lh-title mb3'>Your Trader Inc. Broker NFT Wallet</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
 										<div>
 											<div className='mb3'>
-												Octatradeglobal&apos;s NFT wallet solution enables clients to send, receive, and hold
+												yourtrade&apos;s NFT wallet solution enables clients to send, receive, and hold
 												NFTs in both hot and Qualified Custody wallets.
 											</div>
 											<div className='mb3'>
@@ -220,7 +220,7 @@ export default function WalletPlatform() {
 												OpenSea, Looks Rare, ArtBlocks, Gem, Rarible, and more.
 											</div>
 											<a
-												href='https://go.Octatradeglobal.info/nft-wallet-solution'
+												href='https://go.yourtrade.info/nft-wallet-solution'
 												target='_BLANK'
 												rel='noopener noreferrer'
 												className='bp3-button bp3-large bp3-intent-primary mb4'>
@@ -247,10 +247,10 @@ export default function WalletPlatform() {
 											</a>
 											<div className='silver lh-copy f7 mb3'>
 												Qualified custody services for NFTs are offered to eligible participants
-												through Octa Trade Global Inc. Broker Trust Company, a South Dakota-chartered public trust company.
+												through Your Trader Inc. Broker Trust Company, a South Dakota-chartered public trust company.
 												NFT hot wallet services and other digital assets software solutions are
-												offered by Octatradeglobal, Inc. For more information, please read our full disclaimer
-												located at: https://www.dashboard.octatradeglobal.com/legal/disclaimers.
+												offered by yourtrade, Inc. For more information, please read our full disclaimer
+												located at: https://www.dashboard.yourtrade.com/legal/disclaimers.
 											</div>
 										</div>
 									</div>
@@ -258,17 +258,17 @@ export default function WalletPlatform() {
 							</div>
 							<div className='fl ph4 w-100 w-50-l flex-l items-center justify-center relative overflow-hidden'>
 								<img
-									src='/static/Octatradeglobal-nft-custody-akuma-e6bef2f7180ffdf5e933c4b97534db24.png'
+									src='/static/yourtrade-nft-custody-akuma-e6bef2f7180ffdf5e933c4b97534db24.png'
 									className='br3 overflow-hidden absolute shadow-1 css-1uektk4'
 									alt=''
 								/>
 								<img
-									src='/static/Octatradeglobal-nft-custody-invisible-friends-8a5e207de3ab18637dbcd4f55586e258.gif'
+									src='/static/yourtrade-nft-custody-invisible-friends-8a5e207de3ab18637dbcd4f55586e258.gif'
 									className='br3 overflow-hidden absolute shadow-1 css-vf1vr6'
 									alt=''
 								/>
 								<img
-									src='/static/Octatradeglobal-nft-custody-25d5c6aa7132b3b4cfd5c6dc8e8d2013.png'
+									src='/static/yourtrade-nft-custody-25d5c6aa7132b3b4cfd5c6dc8e8d2013.png'
 									className='br3 overflow-hidden relative shadow-1 ml6-m css-ggsui4'
 									alt=''
 								/>
@@ -282,7 +282,7 @@ export default function WalletPlatform() {
 							<div>
 								<h1 className='f2 fw4 lh-title mb3 measure-narrow white'>Support for the assets you care about</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3 measure-wide2 white'>
-									Octa Trade Global Inc. Broker supports a wide variety of digital assets across our entire platform through custody,
+									Your Trader Inc. Broker supports a wide variety of digital assets across our entire platform through custody,
 									Prime, trade, and portfolio &amp; tax.
 								</div>
 								<Link href='/resources/integrations'>
@@ -847,7 +847,7 @@ export default function WalletPlatform() {
 								<div className='cf nmh4 flex-l items-stretch'>
 									<div className='fl ph4 w-100 w-third-l'>
 										<div className='bl b--border pl4'>
-											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Custody</h3>
+											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Custody</h3>
 											<div className='pv3 mt3 w-100'>
 												<div className='lh-copy black-70 mb2 black-40'>
 													The only qualified custodian purpose-built for digital assets
@@ -858,7 +858,7 @@ export default function WalletPlatform() {
 									<div className='fl ph4 w-100 w-third-l'>
 										<div className='bl b--border pl4'>
 											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>
-												Octa Trade Global Inc. Broker Business Wallet
+												Your Trader Inc. Broker Business Wallet
 											</h3>
 											<div className='pv3 mt3 w-100'>
 												<div className='lh-copy black-70 mb2 black-40'>
@@ -870,7 +870,7 @@ export default function WalletPlatform() {
 									<div className='fl ph4 w-100 w-third-l'>
 										<div className='bl b--border pl4'>
 											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>
-												Octa Trade Global Inc. Broker Pay As You Go
+												Your Trader Inc. Broker Pay As You Go
 											</h3>
 											<div className='pv3 mt3 w-100'>
 												<div className='lh-copy black-70 mb2 black-40'>
@@ -919,13 +919,13 @@ export default function WalletPlatform() {
 									<div className='fl ph4 w-100 w-third-l flex'>
 										<div className='bl b--border pl4 pt3 w-100'>
 											<div className='lh-copy black-70 mb2'>
-												Assets covered by Octatradeglobal&apos;s $250M policy
+												Assets covered by yourtrade&apos;s $250M policy
 											</div>
 											<div className='lh-copy black-70 mb2'>
 												Ability to purchase Excess Specie coverage
 											</div>
 											<div className='lh-copy black-70'>
-												Hold assets with qualified custodian Octa Trade Global Inc. Broker Trust Company, read more{" "}
+												Hold assets with qualified custodian Your Trader Inc. Broker Trust Company, read more{" "}
 												<Link href='/legal/disclaimers'>
 													<a className='[#0018A8] no-underline'>here</a>
 												</Link>
@@ -949,7 +949,7 @@ export default function WalletPlatform() {
 							<div className='dn-l'>
 								<div className='cf nmh4'>
 									<div className='fl ph4 w-100 mb4'>
-										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Custody</h3>
+										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Custody</h3>
 										<div className='lh-copy black-70 mb2 black-40'>
 											The only qualified custodian purpose-built for digital assets
 										</div>
@@ -960,10 +960,10 @@ export default function WalletPlatform() {
 										<div className='lh-copy black-70 mb2'>500+ coins and tokens supported</div>
 										<div className='lh-copy black-70 mb2'>24/5 global customer support</div>
 										<div className='lh-copy black-70 mb2'>24/7 emergency phone support</div>
-										<div className='lh-copy black-70 mb2'>Assets covered by Octatradeglobal&apos;s $250M policy</div>
+										<div className='lh-copy black-70 mb2'>Assets covered by yourtrade&apos;s $250M policy</div>
 										<div className='lh-copy black-70 mb2'>Ability to purchase Excess Specie coverage</div>
 										<div className='lh-copy black-70 mb2'>
-											Hold assets with qualified custodian Octa Trade Global Inc. Broker Trust Company, read more{" "}
+											Hold assets with qualified custodian Your Trader Inc. Broker Trust Company, read more{" "}
 											<Link href='/legal/disclaimers'>
 												<a className='[#0018A8] no-underline'>here</a>
 											</Link>
@@ -973,7 +973,7 @@ export default function WalletPlatform() {
 										<div className='bt w-100 b--border mb4' />
 									</div>
 									<div className='fl ph4 w-100 mb4'>
-										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Business Wallet</h3>
+										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Business Wallet</h3>
 										<div className='lh-copy black-70 mb2 black-40'>
 											The only institutional-grade, multi-signature, multi-coin transactional wallet
 										</div>
@@ -990,7 +990,7 @@ export default function WalletPlatform() {
 										<div className='bt w-100 b--border mb4' />
 									</div>
 									<div className='fl ph4 w-100 mb4'>
-										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Pay As You Go</h3>
+										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Pay As You Go</h3>
 										<div className='lh-copy black-70 mb2 black-40'>
 											The leading multi-signature hot wallet for individuals
 										</div>
@@ -1023,7 +1023,7 @@ export default function WalletPlatform() {
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
 											Our mission has always been to make it as simple as possible to buy and sell
 											cryptocurrency, while also being an industry leader in security, reliability and
-											custody. Octa Trade Global Inc. Broker is essential to achieving these goals.
+											custody. Your Trader Inc. Broker is essential to achieving these goals.
 										</div>
 										<div className='lh-copy black-70'>Jordan Michaelides, Head of Partnerships, CoinJar</div>
 										<a className='black-80 no-underline fw6 mt3 [#0018A8]' href='/case-studies/coinjar'>

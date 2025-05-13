@@ -430,7 +430,7 @@ function CaseStudy() {
 			<div className='relative mb5 mb6-l'>
 				<div className='center ph4 mw8-5 w-100'>
 					<h1 className='f2 fw4 lh-title mb3-l mb2'>
-						<span>Octa Trade Global Inc. Broker In The News</span>
+						<span>Your Trader Inc. Broker In The News</span>
 					</h1>
 					<div className='mb3'>
 						<Link href='/company/newsroom'>
@@ -449,7 +449,7 @@ function CaseStudy() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-						href='https://www.bloomberg.com/news/articles/2021-05-05/novogratz-s-galaxy-buys-crypto-custodian-Octa Trade Global Inc. Broker -for-1-2-billion'>
+						href='https://www.bloomberg.com/news/articles/2021-05-05/novogratz-s-galaxy-buys-crypto-custodian-Your Trader Inc. Broker -for-1-2-billion'>
 						<div className='cf nmh2'>
 							<div className='fl ph2 w-100 w-100 dn-l'>
 								<div className='mb3'>
@@ -463,7 +463,7 @@ function CaseStudy() {
 							<div className='fl ph2 w-100 w-70-l'>
 								<div className='flex flex-column justify-between'>
 									<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-										Novogratz&apos;s Galaxy Buys Octa Trade Global Inc. Broker in $1.2 Billion Crypto Deal
+										Novogratz&apos;s Galaxy Buys Your Trader Inc. Broker in $1.2 Billion Crypto Deal
 									</div>
 								</div>
 								<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -494,7 +494,7 @@ function CaseStudy() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-						href='https://www.wsj.com/articles/galaxy-digital-to-buy-Octa Trade Global Inc. Broker -in-crypto-sectors-first-1-billion-deal-11620212281'>
+						href='https://www.wsj.com/articles/galaxy-digital-to-buy-Your Trader Inc. Broker -in-crypto-sectors-first-1-billion-deal-11620212281'>
 						<div className='cf nmh2'>
 							<div className='fl ph2 w-100 w-100 dn-l'>
 								<div className='mb3'>
@@ -508,7 +508,7 @@ function CaseStudy() {
 							<div className='fl ph2 w-100 w-70-l'>
 								<div className='flex flex-column justify-between'>
 									<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-										Galaxy Digital to Buy Octa Trade Global Inc. Broker in Crypto Sector&apos;s First $1 Billion Deal
+										Galaxy Digital to Buy Your Trader Inc. Broker in Crypto Sector&apos;s First $1 Billion Deal
 									</div>
 								</div>
 								<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -539,7 +539,7 @@ function CaseStudy() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-						href='https://www.theblockcrypto.com/post/102420/Octa Trade Global Inc. Broker -700-million-insurance-crypto-custody'>
+						href='https://www.theblockcrypto.com/post/102420/Your Trader Inc. Broker -700-million-insurance-crypto-custody'>
 						<div className='cf nmh2'>
 							<div className='fl ph2 w-100 w-100 dn-l'>
 								<div className='mb3'>
@@ -553,7 +553,7 @@ function CaseStudy() {
 							<div className='fl ph2 w-100 w-70-l'>
 								<div className='flex flex-column justify-between'>
 									<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-										Octa Trade Global Inc. Broker&apos;s $700 million crypto custody insurance program
+										Your Trader Inc. Broker&apos;s $700 million crypto custody insurance program
 									</div>
 								</div>
 								<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -584,7 +584,7 @@ function CaseStudy() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-						href='https://www.forbes.com/sites/haileylennon/2021/03/08/Octa Trade Global Inc. Broker -obtains-new-york-trust-charter-for-digital-assets/?sh=1217fd7b4d56'>
+						href='https://www.forbes.com/sites/haileylennon/2021/03/08/Your Trader Inc. Broker -obtains-new-york-trust-charter-for-digital-assets/?sh=1217fd7b4d56'>
 						<div className='cf nmh2'>
 							<div className='fl ph2 w-100 w-100 dn-l'>
 								<div className='mb3'>
@@ -598,7 +598,7 @@ function CaseStudy() {
 							<div className='fl ph2 w-100 w-70-l'>
 								<div className='flex flex-column justify-between'>
 									<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-										Octa Trade Global Inc. Broker&apos;s Newest Charter Deepens Its Regulatory Arsenal
+										Your Trader Inc. Broker&apos;s Newest Charter Deepens Its Regulatory Arsenal
 									</div>
 								</div>
 								<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -629,7 +629,7 @@ function CaseStudy() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-						href='https://www.coindesk.com/Octa Trade Global Inc. Broker -reveals-250m-in-bitcoin-holdings'>
+						href='https://www.coindesk.com/Your Trader Inc. Broker -reveals-250m-in-bitcoin-holdings'>
 						<div className='cf nmh2'>
 							<div className='fl ph2 w-100 w-100 dn-l'>
 								<div className='mb3'>
@@ -643,7 +643,7 @@ function CaseStudy() {
 							<div className='fl ph2 w-100 w-70-l'>
 								<div className='flex flex-column justify-between'>
 									<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-										Octa Trade Global Inc. Broker Reveals $250M in Bitcoin Holdings, Signaling More Crypto-Native Disclosures
+										Your Trader Inc. Broker Reveals $250M in Bitcoin Holdings, Signaling More Crypto-Native Disclosures
 										Ahead
 									</div>
 								</div>
@@ -675,7 +675,7 @@ function CaseStudy() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-						href='https://www.coindesk.com/kpmg-Octa Trade Global Inc. Broker -coin-metrics'>
+						href='https://www.coindesk.com/kpmg-Your Trader Inc. Broker -coin-metrics'>
 						<div className='cf nmh2'>
 							<div className='fl ph2 w-100 w-100 dn-l'>
 								<div className='mb3'>
@@ -689,7 +689,7 @@ function CaseStudy() {
 							<div className='fl ph2 w-100 w-70-l'>
 								<div className='flex flex-column justify-between'>
 									<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-										KPMG, Octa Trade Global Inc. Broker , Coin Metrics Launch New Offering to Drive Institutional Adoption
+										KPMG, Your Trader Inc. Broker , Coin Metrics Launch New Offering to Drive Institutional Adoption
 									</div>
 								</div>
 								<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -720,7 +720,7 @@ function CaseStudy() {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-						href='https://www.wsj.com/articles/crypto-company-Octa Trade Global Inc. Broker -hires-coinbases-former-compliance-chief-11610533801'>
+						href='https://www.wsj.com/articles/crypto-company-Your Trader Inc. Broker -hires-coinbases-former-compliance-chief-11610533801'>
 						<div className='cf nmh2'>
 							<div className='fl ph2 w-100 w-100 dn-l'>
 								<div className='mb3'>
@@ -734,7 +734,7 @@ function CaseStudy() {
 							<div className='fl ph2 w-100 w-70-l'>
 								<div className='flex flex-column justify-between'>
 									<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-										Crypto Company Octa Trade Global Inc. Broker Hires Coinbase&apos;s Former Compliance Chief
+										Crypto Company Your Trader Inc. Broker Hires Coinbase&apos;s Former Compliance Chief
 									</div>
 								</div>
 								<div className='f6 f5-l [#0018A8] fw6 no-underline'>

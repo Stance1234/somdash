@@ -55,9 +55,9 @@ function Tax() {
 										animationName: "react-reveal-527075680954863-1",
 									}}>
 									<div className='mb4-l mb3 f4-l f5 fw3 lh-copy tc-l center-l measure-wide2 black-90'>
-										Octa Trade Global Inc. Broker Tax allows institutional clients to confidently track and understand the
+										Your Trader Inc. Broker Tax allows institutional clients to confidently track and understand the
 										performance and returns of their digital asset portfolio. The solution, which is fully
-										integrated with Octa Trade Global Portfolio, calculates cost basis, realized gains/losses, and tax
+										integrated with Your Trader Portfolio, calculates cost basis, realized gains/losses, and tax
 										lots across a full historical dataset of integrated wallets, exchanges, and digital asset
 										service providers.
 									</div>
@@ -90,7 +90,7 @@ function Tax() {
 								<img
 									className='react-reveal br2'
 									alt='Tax'
-									src='https://www.dashboard.octatradeglobal.com/static/hero-tax-fce95bd86e1f510720627b1c28a09496.png'
+									src='https://www.dashboard.yourtrade.com/static/hero-tax-fce95bd86e1f510720627b1c28a09496.png'
 									style={{
 										bottom: 0,
 										maxHeight: 700,
@@ -115,7 +115,7 @@ function Tax() {
 								<div className='measure-wide2 center mb3 mb0-l'>
 									<h1 className='f2 fw4 lh-title mb3'>Understand performance and returns</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Inc. Broker Tax provides full visibility into cost basis and returns on both an aggregate
+										Your Trader Inc. Broker Tax provides full visibility into cost basis and returns on both an aggregate
 										and per transaction level. Generate a comprehensive view of all realized events to
 										understand capital gains and losses, including support for crypto-to-crypto transactions.
 									</div>
@@ -232,7 +232,7 @@ function Tax() {
 								<div className='measure-wide2 center '>
 									<h1 className='f2 fw4 lh-title mb3'>Audit, Compliance, and Tax Reporting</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Inc. Broker Tax enables clients to convert historical transaction data into export-ready
+										Your Trader Inc. Broker Tax enables clients to convert historical transaction data into export-ready
 										audit, compliance, and tax reports. A realized report provides easy access to all taxable
 										events within a portfolio and tax lot reports can be leveraged to support a spectrum of
 										tax-efficiency strategies.
@@ -252,7 +252,7 @@ function Tax() {
 								<div className='measure-wide2 center mb3 mb0-l'>
 									<h1 className='f2 fw4 lh-title mb3'>Manage tax lots in real time</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Inc. Broker Tax supports multiple tax lot identification methods including FIFO, LIFO,
+										Your Trader Inc. Broker Tax supports multiple tax lot identification methods including FIFO, LIFO,
 										Highest Cost, Lowest Cost and Average Cost. Each method can be applied either across all
 										connected wallets, exchanges, and service providers, or on a per account basis—providing
 										true control around how tax lots are opened and closed within a portfolio. A detailed tax
@@ -314,9 +314,9 @@ function Tax() {
 											/>
 										</div>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Octa Trade Global Inc. Broker had the established track record and solid reputation that we were
+											Your Trader Inc. Broker had the established track record and solid reputation that we were
 											looking for when it came to securing our funds. The company&apos;s reputation for
-											excellence made Octa Trade Global Inc. Broker the clear choice as our custody partner.
+											excellence made Your Trader Inc. Broker the clear choice as our custody partner.
 										</div>
 										<div className='lh-copy black-70'>
 											Josh Cincinnati, Executive Director, Zcash Foundation

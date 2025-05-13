@@ -16,7 +16,7 @@ function UserDepositList({ data }) {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Transaction history - Octatradeglobal</title>
+				<title>Transaction history - yourtrade</title>
 			</Head>
 			<div className='container row'>
 				<div className='col l8 s12'>

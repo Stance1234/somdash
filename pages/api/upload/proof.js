@@ -73,10 +73,10 @@
 // 				let htmlData = await getTemplate(req, "deposit", "proof.html")
 
 // 				htmlData = htmlData.replaceAll("[name]", user.firstname)
-// 				htmlData = htmlData.replace(/\[brand\s+name\]/g, "Octa Trade Global")
+// 				htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
 
 // 				await transporter.sendMail({
-// 					from: "Octa Trade Global", // sender address
+// 					from: "Your Trader", // sender address
 // 					to: email, // list of receivers
 // 					subject: "Proof of payment", // Subject line
 // 					text: `Your upload of proof-of-payment has been received and is being reviewed. This may take a few moments.`, // plain text body
@@ -156,10 +156,10 @@ async function handler(req, res) {
       if (status === true) {
         let htmlData = await getTemplate(req, "deposit", "proof.html")
         htmlData = htmlData.replaceAll("[name]", user.firstname);
-        htmlData = htmlData.replace(/\[brand\s+name\]/g, "Octa Trade Global"); // Change "Octa Trade Global" to "Octa Trade Global"
+        htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader"); // Change "Your Trader" to "Your Trader"
 
         await transporter.sendMail({
-          from: "Octa Trade Global", // Change "Octa Trade Global" to "Octa Trade Global"
+          from: "Your Trader", // Change "Your Trader" to "Your Trader"
           to: email,
           subject: "Proof of payment",
           text: `Your upload of proof-of-payment has been received and is being reviewed. This may take a few moments.`,

@@ -5,7 +5,7 @@ function MiningHelp() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>Mining Help - Octatradeglobal</title>
+				<title>Mining Help - yourtrade</title>
 			</Head>
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
 				<h1 className='center app-relative white-dark'>Mining Help</h1>
@@ -26,7 +26,7 @@ function MiningHelp() {
 										<li>
 											<div className='collapsible-header' tabIndex='0'>
 												<i className='material-icons notranslate'>arrow_drop_down</i>
-												How does Bitcoin mining work with Octatradeglobal
+												How does Bitcoin mining work with yourtrade
 											</div>
 											<div className='collapsible-body'>
 												<span>
@@ -94,7 +94,7 @@ function MiningHelp() {
 													Ethash contract - Ethereum
 													<br />
 													<p>
-														(*) “Octa Trade Global Broker Advanced Allocation” (special feature): It allows you
+														(*) “Your Trader Broker Advanced Allocation” (special feature): It allows you
 														to get mining outputs in many different coins even if they are not
 														mined directly by a certain algorithm. For example, you can get
 														mining outputs in BTC while mining with an X11 algorithm! That is
@@ -170,7 +170,7 @@ function MiningHelp() {
 													</p>
 													<p>
 														Please note that the website is an independent source of reference
-														and not related to Octa Trade Global Broker in any manner.
+														and not related to Your Trader Broker in any manner.
 													</p>
 												</span>
 											</div>
@@ -250,7 +250,7 @@ function MiningHelp() {
 														downtimes between seconds and weeks. If your unit breaks you have
 														to return it and start from scratch (by the way: check the
 														guarantee time of your miner; it is often less than a year). With
-														Octa Trade Global Broker you have a guaranteed uptime of 100%: in case one of your
+														Your Trader Broker you have a guaranteed uptime of 100%: in case one of your
 														units fails another unit will be switched over and start mining
 														for you the very same second.
 													</p>
@@ -305,13 +305,13 @@ function MiningHelp() {
 												<span>
 													<span>
 														<p>
-															Octa Trade Global Broker allows its clients to mine different types of coins at
+															Your Trader Broker allows its clients to mine different types of coins at
 															the same time. You decide which coins you prefer and you can
 															allocate hashpower accordingly.
 														</p>
 														<p>
 															Each mining algorithm is set up with a default delivery
-															cryptocurrency. The Octa Trade Global Broker Advanced Auto-Allocation (in short
+															cryptocurrency. The Your Trader Broker Advanced Auto-Allocation (in short
 															“AUTO”) will apply to all cryptocurrencies which cannot be
 															mined directly. In the user interface go to “Mining
 															Allocation” and choose the hashpower allocation that is best
@@ -324,7 +324,7 @@ function MiningHelp() {
 														</p>
 														<p>
 															In order to get the mining output, please ensure to add your
-															wallet address(es) to your Octa Trade Global Broker profile. Find out more
+															wallet address(es) to your Your Trader Broker profile. Find out more
 															details about how to add your wallet(s) in the next section.
 														</p>
 													</span>
@@ -404,7 +404,7 @@ function MiningHelp() {
 											&apos;My account - General - Lost access to my device (I forgot 2FA code)&apos; and
 											we will send you the instructions on how to confirm your account ownership. Before
 											submitting the ticket, please make sure you enter the primary e-mail address of your
-											Octa Trade Global Broker account, or else we won&apos;t be able to help you.
+											Your Trader Broker account, or else we won&apos;t be able to help you.
 										</span>
 									</div>
 								</li>
@@ -450,15 +450,15 @@ function MiningHelp() {
 									</div>
 									<div className='collapsible-body'>
 										<span>
-											To create a Octa Trade Global Broker account, simply click on SIGN UP, enter your e-mail address and a
+											To create a Your Trader Broker account, simply click on SIGN UP, enter your e-mail address and a
 											secure password, and repeat the chosen password. Read and agree to the Privacy
 											Policy by checking the box (mandatory), and decide if you&apos;d like to receive
 											occasional e-mails about our offers and discounts (optional). After you confirm the
 											reCAPTCHA and click on &apos;Sign Up&apos;, go to your e-mail Inbox and verify your
 											e-mail address.* Once you click on the verification link, it will automatically log
-											you into your Octa Trade Global Broker account. *In case you did not receive a verification e-mail,
+											you into your Your Trader Broker account. *In case you did not receive a verification e-mail,
 											please also check your Junk/Spam folder. If you cannot find the e-mail in any of the
-											folders, please go to the Octa Trade Global Broker &apos;Login&apos; page, enter the needed info to log
+											folders, please go to the Your Trader Broker &apos;Login&apos; page, enter the needed info to log
 											in, and there you will be able to select &apos;Resend verification e-mail&apos;.
 										</span>
 									</div>
@@ -471,7 +471,7 @@ function MiningHelp() {
 									<div className='collapsible-body'>
 										<span>
 											If you have decided that you want to delete your account and stop being a member of
-											the Octa Trade Global Broker family, please contact our customer service using your primary e-mail
+											the Your Trader Broker family, please contact our customer service using your primary e-mail
 											address. Just select &apos;My account - General - Terminate my account&apos; in our
 											topic drop-down menu. We wish you success in all your future crypto endeavors!
 										</span>
@@ -499,7 +499,7 @@ function MiningHelp() {
 											mining outputs will be traded from the coin that is natively mined to the selected
 											AUTO coin(s). Therefore, the exchange rate will affect your mining outputs. For any
 											further questions regarding your contract, feel free to contact us via our web form
-											or the “Contact Customer Service” section on your Octa Trade Global Broker account.
+											or the “Contact Customer Service” section on your Your Trader Broker account.
 										</span>
 									</div>
 								</li>

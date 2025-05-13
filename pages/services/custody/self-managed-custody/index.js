@@ -51,11 +51,11 @@ function SelfManagedCustody() {
 										}}>
 										<div className='mb4-l mb3 f4-l f5 fw3 lh-copy css-1g6p1uw black-90'>
 											<span>
-												Octatradeglobal&apos;s Self-Managed Custody solution was built for firms based in
+												yourtrade&apos;s Self-Managed Custody solution was built for firms based in
 												jurisdictions that have a regulatory requirement to manage keys locally in
-												deep cold storage. Octa Trade Global Broker Self-Managed Custody is the same technology
-												utilized by Octa Trade Global Broker Trust Company, the world&apos;s largest, regulated,
-												and purpose-built digital asset custodian. Octa Trade Global Broker provides powerful
+												deep cold storage. Your Trader Broker Self-Managed Custody is the same technology
+												utilized by Your Trader Broker Trust Company, the world&apos;s largest, regulated,
+												and purpose-built digital asset custodian. Your Trader Broker provides powerful
 												enterprise-grade features and complete customer control over how and where
 												both client and backup keys are stored and generated.
 											</span>
@@ -89,9 +89,9 @@ function SelfManagedCustody() {
 								<div className='measure-wide2 center mb3 mb0-l'>
 									<h1 className='f2 fw4 lh-title mb3'>Air-Gapped Cold Storage</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octatradeglobal&apos;s Self-Managed Custody solution allows clients the ability to ensure both their
-										keys and back-up keys are generated, stored, and managed in-country. Octa Trade Global Broker provides
-										an onsite engineering team to assist with set-up and testing and Octa Trade Global Broker recommends
+										yourtrade&apos;s Self-Managed Custody solution allows clients the ability to ensure both their
+										keys and back-up keys are generated, stored, and managed in-country. Your Trader Broker provides
+										an onsite engineering team to assist with set-up and testing and Your Trader Broker recommends
 										clients have access to secure facilities for in-house cold storage.
 									</div>
 								</div>
@@ -129,10 +129,10 @@ function SelfManagedCustody() {
 													src='data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8dGl0bGU+Yml0Z28ta2V5LXdpdGgtaGlnaGxpZ2h0PC90aXRsZT4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJiaXRnby1rZXktd2l0aC1oaWdobGlnaHQiPgogICAgICAgICAgICA8cGF0aCBkPSJNMTYuNDA1LDIwLjIzMSBDMTUuOTE2ODEwNiwyMC43MTkwNjA3IDE1LjEyNTQxNDMsMjAuNzE4OTkxMSAxNC42MzczMTA3LDIwLjIzMDg0NDYgQzE0LjE0OTIwNzIsMTkuNzQyNjk4MiAxNC4xNDkyMDcyLDE4Ljk1MTMwMTggMTQuNjM3MzEwNywxOC40NjMxNTU0IEMxNS4xMjU0MTQzLDE3Ljk3NTAwODkgMTUuOTE2ODEwNiwxNy45NzQ5MzkzIDE2LjQwNSwxOC40NjMgQzE2Ljg5Mjc1OSwxOC45NTE0MTA1IDE2Ljg5Mjc1OSwxOS43NDI1ODk1IDE2LjQwNSwyMC4yMzEgWiIgaWQ9IlBhdGgiIHN0cm9rZT0iIzYyQUJGNCI+PC9wYXRoPgogICAgICAgICAgICA8cGF0aCBkPSJNMTkuMDQ4LDE3Ljk0MiBMMjMuNSwxMy41IEwyMy41LDExLjUgTDIxLjUsMTEuNSBMMTYuOTI2LDE1LjgyMSBDMTUuMTYzMTU4NywxNS4wNzQxNjIzIDEzLjExODI4ODUsMTUuNjgxMTY5OSAxMi4wNDg0NDIzLDE3LjI2ODg3NDIgQzEwLjk3ODU5NiwxOC44NTY1Nzg2IDExLjE4Mzc4NDcsMjAuOTc5NzQ4MyAxMi41Mzc4NzE4LDIyLjMzMzE5NzMgQzEzLjg5MTk1ODksMjMuNjg2NjQ2MyAxNi4wMTUyMjUyLDIzLjg5MDgzNDIgMTcuNjAyNDI1LDIyLjgyMDIzOTcgQzE5LjE4OTYyNDksMjEuNzQ5NjQ1MSAxOS43OTU2Njg2LDE5LjcwNDQ4OTEgMTkuMDQ4LDE3Ljk0MiBMMTkuMDQ4LDE3Ljk0MiBaIiBpZD0iUGF0aCIgc3Ryb2tlPSIjNjJBQkY0Ij48L3BhdGg+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik03LjUsMjMuNSBMMC41LDIzLjUgTDAuNSw5LjUgQzAuNSw4Ljk0NzcxNTI1IDAuOTQ3NzE1MjUsOC41IDEuNSw4LjUgTDYuNSw4LjUgQzcuMDUyMjg0NzUsOC41IDcuNSw4Ljk0NzcxNTI1IDcuNSw5LjUgTDcuNSwyMy41IFoiIGlkPSJQYXRoIiBzdHJva2U9IiNBNkE2QTYiPjwvcGF0aD4KICAgICAgICAgICAgPHBhdGggZD0iTTYuNSw4LjUgTDYuNSw0LjUgTDE0LjgsMC44MTIgQzE0Ljk1NDM3NDIsMC43NDQ2MjQ5NjEgMTUuMTMyMjk2MiwwLjc1OTUwMzYxMyAxNS4yNzMzMzYxLDAuODUxNTgyNTE1IEMxNS40MTQzNzYsMC45NDM2NjE0MTcgMTUuNDk5NTc2NiwxLjEwMDU2NDI3IDE1LjUsMS4yNjkgTDE1LjUsMTIuNSIgaWQ9IlBhdGgiIHN0cm9rZT0iI0E2QTZBNiI+PC9wYXRoPgogICAgICAgICAgICA8cGF0aCBkPSJNNS41LDIzLjUgTDUuNSwyMSBDNS41LDIwLjcyMzg1NzYgNS4yNzYxNDIzNywyMC41IDUsMjAuNSBMMywyMC41IEMyLjcyMzg1NzYzLDIwLjUgMi41LDIwLjcyMzg1NzYgMi41LDIxIEwyLjUsMjMuNSIgaWQ9IlBhdGgiIHN0cm9rZT0iI0E2QTZBNiI+PC9wYXRoPgogICAgICAgICAgICA8bGluZSB4MT0iMC41IiB5MT0iMTEuNSIgeDI9IjQuNSIgeTI9IjExLjUiIGlkPSJQYXRoIiBzdHJva2U9IiNBNkE2QTYiPjwvbGluZT4KICAgICAgICAgICAgPGxpbmUgeDE9IjEyLjUiIHkxPSI1LjUiIHgyPSIxNS41IiB5Mj0iNS41IiBpZD0iUGF0aCIgc3Ryb2tlPSIjQTZBNkE2Ij48L2xpbmU+CiAgICAgICAgICAgIDxsaW5lIHgxPSIxMC41IiB5MT0iNy41IiB4Mj0iMTUuNSIgeTI9IjcuNSIgaWQ9IlBhdGgiIHN0cm9rZT0iI0E2QTZBNiI+PC9saW5lPgogICAgICAgICAgICA8bGluZSB4MT0iMC41IiB5MT0iMTMuNSIgeDI9IjIuNSIgeTI9IjEzLjUiIGlkPSJQYXRoIiBzdHJva2U9IiNBNkE2QTYiPjwvbGluZT4KICAgICAgICAgICAgPGxpbmUgeDE9IjguNSIgeTE9IjMuNjExIiB4Mj0iOC41IiB5Mj0iMC41IiBpZD0iUGF0aCIgc3Ryb2tlPSIjQTZBNkE2Ij48L2xpbmU+CiAgICAgICAgICAgIDxsaW5lIHgxPSI3LjUiIHkxPSIyMy41IiB4Mj0iMTEuNSIgeTI9IjIzLjUiIGlkPSJQYXRoIiBzdHJva2U9IiNBNkE2QTYiPjwvbGluZT4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo='
 													className='l-marketingIcon l-marketingIcon--clear mb3'
 												/>
-												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb2'>Octa Trade Global Broker Key</h5>
+												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb2'>Your Trader Broker Key</h5>
 												<div className='lh-copy black-70 silver'>
 													<ul className='ml3 pl2'>
-														<li>Generated and stored by Octa Trade Global Broker online.</li>
+														<li>Generated and stored by Your Trader Broker online.</li>
 														<li>
 															Used to <span className='fw6 black-70'>co-sign</span> all
 															multi-signature transactions only after policy controls have
@@ -178,11 +178,11 @@ function SelfManagedCustody() {
 						<div className='cf nmh4 flex-l'>
 							<div className='fl ph4 w-100 flex-l items-center justify-center w-50-l'>
 								<div className='measure-wide2 center pv6-l mb3 mb0-l'>
-									<h1 className='f2 fw4 lh-title mb3'>Octa Trade Global Broker NFT Wallet</h1>
+									<h1 className='f2 fw4 lh-title mb3'>Your Trader Broker NFT Wallet</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
 										<div>
 											<div className='mb3'>
-												Octatradeglobal&apos;s NFT wallet solution enables clients to send, receive, and hold
+												yourtrade&apos;s NFT wallet solution enables clients to send, receive, and hold
 												NFTs in both hot and Qualified Custody wallets.
 											</div>
 											<div className='mb3'>
@@ -195,7 +195,7 @@ function SelfManagedCustody() {
 												OpenSea, Looks Rare, ArtBlocks, Gem, Rarible, and more.
 											</div>
 											<a
-												href='https://go.Octatradeglobal.info/nft-wallet-solution'
+												href='https://go.yourtrade.info/nft-wallet-solution'
 												target='_BLANK'
 												rel='noopener noreferrer'
 												className='bp3-button bp3-large bp3-intent-primary mb4'>
@@ -222,9 +222,9 @@ function SelfManagedCustody() {
 											</a>
 											<div className='silver lh-copy f7 mb3'>
 												Qualified custody services for NFTs are offered to eligible participants
-												through Octa Trade Global Broker Trust Company, a South Dakota-chartered public trust
+												through Your Trader Broker Trust Company, a South Dakota-chartered public trust
 												company. NFT hot wallet services and other digital assets software solutions
-												are offered by Octatradeglobal, Inc. For more information, please read our full
+												are offered by yourtrade, Inc. For more information, please read our full
 												disclaimer located at: /legal/disclaimers.
 											</div>
 										</div>
@@ -233,17 +233,17 @@ function SelfManagedCustody() {
 							</div>
 							<div className='fl ph4 w-100 w-50-l flex-l items-center justify-center relative overflow-hidden'>
 								<img
-									src='/static/Octatradeglobal-nft-custody-akuma-e6bef2f7180ffdf5e933c4b97534db24.png'
+									src='/static/yourtrade-nft-custody-akuma-e6bef2f7180ffdf5e933c4b97534db24.png'
 									className='br3 overflow-hidden absolute shadow-1 css-1uektk4'
 									alt=''
 								/>
 								<img
-									src='/static/Octatradeglobal-nft-custody-invisible-friends-8a5e207de3ab18637dbcd4f55586e258.gif'
+									src='/static/yourtrade-nft-custody-invisible-friends-8a5e207de3ab18637dbcd4f55586e258.gif'
 									className='br3 overflow-hidden absolute shadow-1 css-vf1vr6'
 									alt=''
 								/>
 								<img
-									src='/static/Octatradeglobal-nft-custody-25d5c6aa7132b3b4cfd5c6dc8e8d2013.png'
+									src='/static/yourtrade-nft-custody-25d5c6aa7132b3b4cfd5c6dc8e8d2013.png'
 									className='br3 overflow-hidden relative shadow-1 ml6-m css-ggsui4'
 									alt=''
 								/>
@@ -303,9 +303,9 @@ function SelfManagedCustody() {
 								<div className='measure-wide2 center '>
 									<h1 className='f2 fw4 lh-title mb3'>State-of-the-Art Security</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Broker cold wallets represent the most secure method of storing digital assets.
+										Your Trader Broker cold wallets represent the most secure method of storing digital assets.
 										Private keys are generated offline and are never exposed to an online network, reducing
-										risk. Cold wallets are also secured using Octatradeglobal&apos;s pioneering multi-signature
+										risk. Cold wallets are also secured using yourtrade&apos;s pioneering multi-signature
 										technology, eliminating single-point-of-failure risks that accompany single-key systems.
 										Security is further enhanced by stringent procedures around the signing process used to
 										initiate all transactions, as well as the generation and storage of private keys.
@@ -393,10 +393,10 @@ function SelfManagedCustody() {
 								<div className='measure-wide2 center mb3 mb0-l'>
 									<h1 className='f2 fw4 lh-title mb3'>Post Sales Support</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Broker is committed to supporting our clients around the world with dedicated
+										Your Trader Broker is committed to supporting our clients around the world with dedicated
 										account managers, 24/7 escalation support via phone, and 24/5 global customer support. Our
-										onsite Octa Trade Global Broker engineering team assists with initial set-up and end-to-end testing,
-										and Octa Trade Global Broker provides tailored guidelines, recommendations, and best practices at
+										onsite Your Trader Broker engineering team assists with initial set-up and end-to-end testing,
+										and Your Trader Broker provides tailored guidelines, recommendations, and best practices at
 										every step of the process. Comprehensive user guides and on-going technical support ensure
 										client success.
 									</div>
@@ -418,7 +418,7 @@ function SelfManagedCustody() {
 							<div>
 								<h1 className='f2 fw4 lh-title mb3 measure-narrow white'>Support for the assets you care about</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3 measure-wide2 white'>
-									Octa Trade Global Broker supports a wide variety of digital assets across our entire platform through
+									Your Trader Broker supports a wide variety of digital assets across our entire platform through
 									custody, Prime, trade, and portfolio &amp; tax.
 								</div>
 								<Link href='/resources/integrations'>
@@ -747,7 +747,7 @@ function SelfManagedCustody() {
 											Japan continues to lead the way in Virtual Asset (Cryptocurrency) regulation, and
 											Bitgate is in a prime position to offer a compliant and robust platform to its
 											customers. Together with Daiko&apos;s expertise, Bitgate&apos;s specialization in
-											the virtual asset space, and Octatradeglobal&apos;s security infrastructure, we have a
+											the virtual asset space, and yourtrade&apos;s security infrastructure, we have a
 											compelling product to offer to investors in Japan.
 										</div>
 										<div className='lh-copy black-70'>Akio Ito, CTO, Daiko Holdings</div>

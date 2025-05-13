@@ -47,7 +47,7 @@ function TradingWatchlist({ assets }) {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Assets Markets - Octatradeglobal</title>
+				<title>Assets Markets - yourtrade</title>
 			</Head>
 			<div className='container'>
 				<center>

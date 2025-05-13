@@ -49,7 +49,7 @@ function UserDepositCrypto({ methods, purposes }) {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Fund Your Account - Octatradeglobal</title>
+				<title>Fund Your Account - yourtrade</title>
 			</Head>
 			<center>
 				<p style={{ fontWeight: "bold" }}>FUND YOUR ACCOUNT</p>

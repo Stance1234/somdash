@@ -60,7 +60,7 @@ async function handler(req, res) {
 			// TODO: update email message
 			htmlData = htmlData.replaceAll("[name]", userClient.firstname)
 			htmlData = htmlData.replaceAll("[message]", message)
-			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Octa Trade Global")
+			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
 
 			contract.status = "close"
 
@@ -68,7 +68,7 @@ async function handler(req, res) {
 
 			// TODO: send email
 			await transporter.sendMail({
-				from: "Octa Trade Global", // sender address
+				from: "Your Trader", // sender address
 				to: userClient.email, // list of receivers
 				subject: "Trade status", // Subject line
 				text: message, // plain text body

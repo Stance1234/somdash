@@ -41,8 +41,8 @@ function LandingPage() {
 					<span className='text-[#0018A8]-500 block'>convenient</span>
 				</p>
 				<h2 className='text-lg md:translate-x-20 translate-x-0 bg-white text-black p-4 rounded-lg shadow-xl dark:bg-slate-700 dark:text-slate-300'>
-					Octa Trade Global is a financial organization that offers financial services to both legal entities and individuals. The company
-					trades and works with digital assets, stocks, etc. Octa Trade Global attracts funds from private customers via this website by
+					Your Trader is a financial organization that offers financial services to both legal entities and individuals. The company
+					trades and works with digital assets, stocks, etc. Your Trader attracts funds from private customers via this website by
 					offering a return on investment and safe storage of digital assets.
 				</h2>
 				<div>

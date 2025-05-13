@@ -578,7 +578,7 @@ function HeaderFixed() {
 																	</Link>
 																	<a
 																		className='fw6 black-80 hover-color-[#0018A8] no-underline db pa2 truncate pointer'
-																		href='https://blog.dashboard.octatradeglobal.com/'
+																		href='https://blog.dashboard.yourtrade.com/'
 																		target='_BLANK'
 																		rel='noopener noreferrer'>
 																		<span>Blog</span>

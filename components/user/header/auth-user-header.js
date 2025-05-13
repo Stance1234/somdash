@@ -51,7 +51,7 @@ function AuthUserHeader() {
 					</li>
 					<li>
 						<Link href='/user'>
-							<a className='text-[#0018A8]-500 text-lg font-bold'>Octa Trade Global</a>
+							<a className='text-[#0018A8]-500 text-lg font-bold'>Your Trader</a>
 						</Link>
 					</li>
 				</ul>

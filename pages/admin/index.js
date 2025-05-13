@@ -51,7 +51,7 @@ function AdminLogin() {
             <Head>
 
                 {/* <!-- Title --> */}
-                <title>Trademark Octa Trade Global Inc. Broker dashboard</title>
+                <title>Trademark Your Trader Inc. Broker dashboard</title>
 
                 {/* <!-- Bootstrap css--> */}
                 <link href="/admin/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>

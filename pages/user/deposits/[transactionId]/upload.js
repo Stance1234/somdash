@@ -68,7 +68,7 @@ function UserDepositUpload() {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Upload Payment Proof - Octatradeglobal</title>
+				<title>Upload Payment Proof - yourtrade</title>
 			</Head>
 			<section className='container row'>
 				<div className='shadow-2xl px-10 py-5 pt-0 rounded-xl dark:border dark:border-[#0018A8]-500 max-w-xl mx-10 md:mx-auto'>

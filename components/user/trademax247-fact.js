@@ -3,7 +3,7 @@ import Image from "next/image"
 function BitGoFact() {
 	return (
 		<section className='app-gr-5 py-16 px-10'>
-			<h2 className='text-center text-3xl font-bold text-slate-200'>Octa Trade Global Facts</h2>
+			<h2 className='text-center text-3xl font-bold text-slate-200'>Your Trader Facts</h2>
 			<div className=' flex mt-10 gap-10 justify-between'>
 				<div className='text-slate-200 flex flex-col items-center'>
 					<svg className='w-10 h-10 fill-slate-200' viewBox='0 0 64 64'>

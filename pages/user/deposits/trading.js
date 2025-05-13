@@ -7,7 +7,7 @@ function TradingPlans() {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Trading Plans - Octatradeglobal</title>
+				<title>Trading Plans - yourtrade</title>
 			</Head>
 			<PricingDisplay hasAction />
 			{/* <div className="container center">

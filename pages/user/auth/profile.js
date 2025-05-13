@@ -72,14 +72,14 @@ function Profile({ user }) {
 								<span className='font-semibold text-gray-900'>{profile.state}</span>
 							</li>
 							<CopyToClipboard
-								text={`https://www.dashboard.octatradeglobal.com/signup?ref=${profile.refferal_code}`}
+								text={`https://www.dashboard.yourtrade.com/signup?ref=${profile.refferal_code}`}
 								onCopy={() => toast.success("Copied to clipboard!")}>
 								<li
 									className='collection-item bg cursor-pointer flex justify-between items-center hover:bg-gray-100'
 									title='Click to copy link'>
 									<span className='text-gray-800 font-medium'>Referral Link:</span>
 									<span className='font-semibold text-blue-600'>
-										{`https://www.dashboard.octatradeglobal.com/signup?ref=${profile.refferal_code}`}
+										{`https://www.dashboard.yourtrade.com/signup?ref=${profile.refferal_code}`}
 									</span>
 								</li>
 							</CopyToClipboard>

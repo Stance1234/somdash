@@ -5,12 +5,12 @@ function Options() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>Trade Binary Options - Octatradeglobal</title>
+				<title>Trade Binary Options - yourtrade</title>
 			</Head>
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
 				<h1 className='center app-relative white-dark'>Trade Binary Options</h1>
 				<p className='app-relative center white-dark'>
-					Trade Binary Options on the Octa Trade Global Inc. Broker platform and enjoy reliable pricing and exceptional execution
+					Trade Binary Options on the Your Trader Inc. Broker platform and enjoy reliable pricing and exceptional execution
 				</p>
 			</div>
 			<div className='container fade-appear-done fade-enter-done'>

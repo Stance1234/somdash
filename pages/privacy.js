@@ -7,7 +7,7 @@ function Privacy() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>Privacy Policy - Octatradeglobal</title>
+				<title>Privacy Policy - yourtrade</title>
 			</Head>
 
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
@@ -19,7 +19,7 @@ function Privacy() {
 				<br />
 				<h3>Introduction</h3>
 				<p>
-					Octa Trade Global Inc. Broker Limited (in incorporation) (“us“, “we” or “Company“) respect the privacy of our users (each, “you” or “User“) and
+					Your Trader Inc. Broker Limited (in incorporation) (“us“, “we” or “Company“) respect the privacy of our users (each, “you” or “User“) and
 					are committed to protect the privacy of Users who access, download, install or register to our mobile application (the
 					“Application“), our website or any other online services we provide (collectively: the “Services“). The Company has
 					papered this Privacy Policy to outline our practices with respect to collecting, using and disclosing your information
@@ -257,7 +257,7 @@ function Privacy() {
 									legal obligations, resolve disputes and enforce our agreements. We may rectify, replenish or
 									remove incomplete or inaccurate information, at any time and at our own discretion. If you wish
 									to raise a complaint on how we have handled your Personal Information, please contact us
-									directly at support@octatradeglobal.com. If you are not satisfied with our response or believe we are
+									directly at support@yourtrade.com. If you are not satisfied with our response or believe we are
 									collecting or processing your Personal Information not in accordance with the laws, you can
 									complain to the applicable data protection authority.
 								</p>
@@ -279,7 +279,7 @@ function Privacy() {
 									unauthorized access or abuse the Services, and we make no warranty, express, implied or
 									otherwise, that we will prevent such access. If you feel that your privacy was treated not in
 									accordance with our policy, or if any person attempted to abuse the Services or acted in an
-									inappropriate manner, please contact us directly atsupport@octatradeglobal.com.
+									inappropriate manner, please contact us directly atsupport@yourtrade.com.
 								</p>
 							</span>
 						</div>
@@ -375,7 +375,7 @@ function Privacy() {
 							<span>
 								<p>
 									If you have any general questions regarding the Services or the information that we collect
-									about you and how we use it, please contact us at support@octatradeglobal.com.
+									about you and how we use it, please contact us at support@yourtrade.com.
 								</p>
 							</span>
 						</div>

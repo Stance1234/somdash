@@ -62,10 +62,10 @@ async function handler(req, res) {
 			htmlData = htmlData.replaceAll("[name]", userClient.firstname)
 			htmlData = htmlData.replaceAll("[amount]", `$${fund.amount}`)
 			htmlData = htmlData.replaceAll("[purpose]", purpose.name)
-			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Octa Trade Global")
+			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
 
 			await transporter.sendMail({
-				from: "Octa Trade Global", // sender address
+				from: "Your Trader", // sender address
 				to: userClient.email, // list of receivers
 				subject: "Payment Verified", // Subject line
 				text: `Your payment of $${fund.amount}`, // plain text body

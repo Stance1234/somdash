@@ -37,7 +37,7 @@ function PrimeTrading() {
 								</div>
 								<div className='react-reveal' style={{ opacity: 0 }}>
 									<div className='mb4-l mb3 f4-l f5 fw3 lh-copy tc-l center-l measure-wide2 white black-90'>
-										Octa Trade Global Inc. Broker Prime lets you trade securely and at competitive prices, serving as your
+										Your Trader Inc. Broker Prime lets you trade securely and at competitive prices, serving as your
 										sole, agnostic counterparty with a deep and aggregated pool of exchanges and market
 										makers.
 									</div>
@@ -83,7 +83,7 @@ function PrimeTrading() {
 											<div className='measure-wide2 center'>
 												<h1 className='f2 fw4 lh-title mb3'>Security meets liquidity</h1>
 												<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-													Custody with Octa Trade Global Inc. Broker Trust and trade with Octa Trade Global Inc. Broker Prime, so
+													Custody with Your Trader Inc. Broker Trust and trade with Your Trader Inc. Broker Prime, so
 													you can access deep liquidity while maintaining assets in regulated cold
 													storage.
 												</div>
@@ -105,7 +105,7 @@ function PrimeTrading() {
 												<h1 className='f2 fw4 lh-title mb3'>Best execution</h1>
 												<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
 													Trade at competitive prices without needing to navigate the fragmented
-													crypto market yourself, thanks to Octatradeglobal&apos;s aggregated network of
+													crypto market yourself, thanks to yourtrade&apos;s aggregated network of
 													exchanges and market makers.
 												</div>
 											</div>
@@ -126,7 +126,7 @@ function PrimeTrading() {
 								<div className='measure-wide2 center mb3 mb0-l'>
 									<h1 className='f2 fw4 lh-title mb3'>Efficiency and confidence</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										With Octa Trade Global Inc. Broker as your sole, agnostic counterparty, you eliminate the need to manage
+										With Your Trader Inc. Broker as your sole, agnostic counterparty, you eliminate the need to manage
 										accounts with multiple liquidity providers and can trade confidently without broadcasting
 										to the market.
 									</div>
@@ -168,11 +168,11 @@ function PrimeTrading() {
 				</div>
 				<div className='center ph4 mw8-5 w-100 tc mb3 mb4-l'>
 					<div className='silver lh-copy'>
-						Octa Trade Global Inc. Broker Prime LLC, a wholly-owned subsidiary of Octa Trade Global Inc. Broker Holdings, Inc., provides lending and trading
-						services to eligible counterparties. All custodial services are provided by Octa Trade Global Inc. Broker Trust Company. Octatradeglobal
-						Broker Prime and Octa Trade Global Inc. Broker Trust together offer certain integrated solutions, such as clearing and settlement
-						services. Any insurance coverage maintained by Octa Trade Global Inc. Broker applies only to digital assets held in cold storage by
-						Octa Trade Global Inc. Broker Trust pursuant to a custodial services agreement.
+						Your Trader Inc. Broker Prime LLC, a wholly-owned subsidiary of Your Trader Inc. Broker Holdings, Inc., provides lending and trading
+						services to eligible counterparties. All custodial services are provided by Your Trader Inc. Broker Trust Company. yourtrade
+						Broker Prime and Your Trader Inc. Broker Trust together offer certain integrated solutions, such as clearing and settlement
+						services. Any insurance coverage maintained by Your Trader Inc. Broker applies only to digital assets held in cold storage by
+						Your Trader Inc. Broker Trust pursuant to a custodial services agreement.
 						<br />
 						<br />
 						For more information, please read our full disclaimer.
@@ -203,7 +203,7 @@ function PrimeTrading() {
 											/>
 										</div>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Octa Trade Global Inc. Broker has invested the time and energy to bring the best financial tools from
+											Your Trader Inc. Broker has invested the time and energy to bring the best financial tools from
 											mainstream treasury management to digital currency, and it shows in the quality of
 											their products and services.
 										</div>

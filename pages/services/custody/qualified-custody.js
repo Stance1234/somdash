@@ -54,8 +54,8 @@ export default function QualifiedCustody() {
 										}}>
 										<div className='mb4-l mb3 f4-l f5 fw3 lh-copy css-1g6p1uw black-90'>
 											<span>
-												Regulated investors need regulated partners. Built on Octatradeglobal&apos;s pioneering
-												multi-signature security, Octa Trade Global Inc. Broker Custody is purpose-built for institutions
+												Regulated investors need regulated partners. Built on yourtrade&apos;s pioneering
+												multi-signature security, Your Trader Inc. Broker Custody is purpose-built for institutions
 												demanding the highest-level of security and compliance for their digital
 												assets.
 											</span>
@@ -89,11 +89,11 @@ export default function QualifiedCustody() {
 								<div className='measure-wide2 center mb3 mb0-l'>
 									<h1 className='f2 fw4 lh-title mb3'>The Gold Standard for Custody</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Safeguard your digital assets with our qualified, insured cold storage custody at Octatradeglobal
+										Safeguard your digital assets with our qualified, insured cold storage custody at yourtrade
 										Trust Company—a regulated Trust Company under the Division of Banking in South Dakota.
-										Cold storage assets are held in segregated accounts, insured and secured by Octatradeglobal&apos;s
+										Cold storage assets are held in segregated accounts, insured and secured by yourtrade&apos;s
 										battle-tested and peer-reviewed multi-signature security. Clients receive quarterly
-										account statements and risk assessments. Octa Trade Global Inc. Broker Trust is regularly audited by a governing
+										account statements and risk assessments. Your Trader Inc. Broker Trust is regularly audited by a governing
 										body and required to meet rigorous standards for capitalization, anti-money laundering
 										procedures, confidentiality, auditing, reporting, and storage.
 									</div>
@@ -114,7 +114,7 @@ export default function QualifiedCustody() {
 											<div className='mb4'>
 												<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb1 white'>500+</h4>
 												<div className='lh-copy black-70 mb2 white-50 mw5'>
-													Coins and tokens Octa Trade Global Inc. Broker Custody supports
+													Coins and tokens Your Trader Inc. Broker Custody supports
 												</div>
 											</div>
 										</div>
@@ -142,7 +142,7 @@ export default function QualifiedCustody() {
 											<div className>
 												<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb1 white'>150+</h4>
 												<div className='lh-copy black-70 mb2 white-50 mw5'>
-													Crypto Exchanges using Octatradeglobal
+													Crypto Exchanges using yourtrade
 												</div>
 											</div>
 										</div>
@@ -174,7 +174,7 @@ export default function QualifiedCustody() {
 											<div className='mb4'>
 												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb1 white'>500+</h5>
 												<div className='lh-copy black-70 mb2 white-50 mw5'>
-													Coins and tokens Octa Trade Global Inc. Broker Custody supports
+													Coins and tokens Your Trader Inc. Broker Custody supports
 												</div>
 											</div>
 										</div>
@@ -202,7 +202,7 @@ export default function QualifiedCustody() {
 											<div className>
 												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb1 white'>150+</h5>
 												<div className='lh-copy black-70 mb2 white-50 mw5'>
-													Crypto Exchanges using Octatradeglobal
+													Crypto Exchanges using yourtrade
 												</div>
 											</div>
 										</div>
@@ -250,7 +250,7 @@ export default function QualifiedCustody() {
 												/>
 												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb2'>Step 2</h5>
 												<div className='lh-copy black-70 mb2 silver measure-narrow'>
-													Octa Trade Global Inc. Broker performs an identity verification and generates a transaction.
+													Your Trader Inc. Broker performs an identity verification and generates a transaction.
 												</div>
 											</div>
 										</div>
@@ -275,7 +275,7 @@ export default function QualifiedCustody() {
 												/>
 												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb2'>Step 4</h5>
 												<div className='lh-copy black-70 mb2 silver measure-narrow'>
-													Once the final approval is received from the client, Octa Trade Global Inc. Broker co-signs and
+													Once the final approval is received from the client, Your Trader Inc. Broker co-signs and
 													the funds are transferred.
 												</div>
 											</div>
@@ -308,7 +308,7 @@ export default function QualifiedCustody() {
 												/>
 												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb2'>Step 2</h5>
 												<div className='lh-copy black-70 mb2 silver measure-narrow'>
-													Octa Trade Global Inc. Broker performs an identity verification and generates a transaction.
+													Your Trader Inc. Broker performs an identity verification and generates a transaction.
 												</div>
 											</div>
 										</div>
@@ -333,7 +333,7 @@ export default function QualifiedCustody() {
 												/>
 												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb2'>Step 4</h5>
 												<div className='lh-copy black-70 mb2 silver measure-narrow'>
-													Once the final approval is received from the client, Octa Trade Global Inc. Broker co-signs and
+													Once the final approval is received from the client, Your Trader Inc. Broker co-signs and
 													the funds are transferred.
 												</div>
 											</div>
@@ -354,11 +354,11 @@ export default function QualifiedCustody() {
 								<div className='center ph4 mw8-5 w-100'>
 									<div className='cf nmh4 flex-l'>
 										<div className='measure-wide2 center'>
-											<h1 className='f2 fw4 lh-title mb4'>Octa Trade Global Inc. Broker Insurance</h1>
+											<h1 className='f2 fw4 lh-title mb4'>Your Trader Inc. Broker Insurance</h1>
 											<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-												Assets held in Octatradeglobal&apos;s qualified custody at Octa Trade Global Inc. Broker Trust are covered by
-												Octatradeglobal&apos;s $250 million policy when all private keys are held by Octa Trade Global Inc. Broker Trust
-												or Octatradeglobal, Inc.
+												Assets held in yourtrade&apos;s qualified custody at Your Trader Inc. Broker Trust are covered by
+												yourtrade&apos;s $250 million policy when all private keys are held by Your Trader Inc. Broker Trust
+												or yourtrade, Inc.
 											</div>
 											<div className='pa4 ba b--border'>
 												<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb2'>
@@ -368,14 +368,14 @@ export default function QualifiedCustody() {
 													<ul className='ml3 pl1 mv3'>
 														<li>Third-party hacks of cold-storage environment</li>
 														<li>Copying or theft of private keys</li>
-														<li>Dishonest acts by Octa Trade Global Inc. Broker employees</li>
+														<li>Dishonest acts by Your Trader Inc. Broker employees</li>
 														<li>Loss of key material due to natural disasters</li>
 													</ul>
 												</div>
 												<div className='lh-copy black-70 mb3'>
 													Clients also have the option to purchase{" "}
 													<span className='fw6'>additional excess insurance</span> up to $600
-													million to supplement Octatradeglobal&apos;s $250 million policy.
+													million to supplement yourtrade&apos;s $250 million policy.
 												</div>
 												<Link href='/resources/digital-asset-insurance'>
 													<a className='f5 black-90 fw6 no-underline'>
@@ -423,7 +423,7 @@ export default function QualifiedCustody() {
 													Generate passive income while keeping digital assets in insured cold
 													storage. Best-in-class security architecture means each node runs on its
 													own virtual machine and no client keys go online—ensuring seamless
-													integration with Octa Trade Global Inc. Broker Qualified Custody. Insurance provides protection
+													integration with Your Trader Inc. Broker Qualified Custody. Insurance provides protection
 													for custodial assets for up to $250 million.
 												</div>
 											</div>
@@ -439,11 +439,11 @@ export default function QualifiedCustody() {
 						<div className='cf nmh4 flex-l'>
 							<div className='fl ph4 w-100 flex-l items-center justify-center w-50-l'>
 								<div className='measure-wide2 center pv6-l mb3 mb0-l'>
-									<h1 className='f2 fw4 lh-title mb3'>Octa Trade Global Inc. Broker NFT Wallet</h1>
+									<h1 className='f2 fw4 lh-title mb3'>Your Trader Inc. Broker NFT Wallet</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
 										<div>
 											<div className='mb3'>
-												Octatradeglobal&apos;s NFT wallet solution enables clients to send, receive, and hold
+												yourtrade&apos;s NFT wallet solution enables clients to send, receive, and hold
 												NFTs in both hot and Qualified Custody wallets.
 											</div>
 											<div className='mb3'>
@@ -456,7 +456,7 @@ export default function QualifiedCustody() {
 												OpenSea, Looks Rare, ArtBlocks, Gem, Rarible, and more.
 											</div>
 											<a
-												href='https://go.Octatradeglobal.info/nft-wallet-solution'
+												href='https://go.yourtrade.info/nft-wallet-solution'
 												target='_BLANK'
 												rel='noopener noreferrer'
 												className='bp3-button bp3-large bp3-intent-primary mb4'>
@@ -483,10 +483,10 @@ export default function QualifiedCustody() {
 											</a>
 											<div className='silver lh-copy f7 mb3'>
 												Qualified custody services for NFTs are offered to eligible participants
-												through Octa Trade Global Inc. Broker Trust Company, a South Dakota-chartered public trust company.
+												through Your Trader Inc. Broker Trust Company, a South Dakota-chartered public trust company.
 												NFT hot wallet services and other digital assets software solutions are
-												offered by Octatradeglobal, Inc. For more information, please read our full disclaimer
-												located at: https://www.dashboard.octatradeglobal.com/legal/disclaimers.
+												offered by yourtrade, Inc. For more information, please read our full disclaimer
+												located at: https://www.dashboard.yourtrade.com/legal/disclaimers.
 											</div>
 										</div>
 									</div>
@@ -494,17 +494,17 @@ export default function QualifiedCustody() {
 							</div>
 							<div className='fl ph4 w-100 w-50-l flex-l items-center justify-center relative overflow-hidden'>
 								<img
-									src='/static/Octatradeglobal-nft-custody-akuma-e6bef2f7180ffdf5e933c4b97534db24.png'
+									src='/static/yourtrade-nft-custody-akuma-e6bef2f7180ffdf5e933c4b97534db24.png'
 									className='br3 overflow-hidden absolute shadow-1 css-1uektk4'
 									alt=''
 								/>
 								<img
-									src='/static/Octatradeglobal-nft-custody-invisible-friends-8a5e207de3ab18637dbcd4f55586e258.gif'
+									src='/static/yourtrade-nft-custody-invisible-friends-8a5e207de3ab18637dbcd4f55586e258.gif'
 									className='br3 overflow-hidden absolute shadow-1 css-vf1vr6'
 									alt=''
 								/>
 								<img
-									src='/static/Octatradeglobal-nft-custody-25d5c6aa7132b3b4cfd5c6dc8e8d2013.png'
+									src='/static/yourtrade-nft-custody-25d5c6aa7132b3b4cfd5c6dc8e8d2013.png'
 									className='br3 overflow-hidden relative shadow-1 ml6-m css-ggsui4'
 									alt=''
 								/>
@@ -518,7 +518,7 @@ export default function QualifiedCustody() {
 							<div>
 								<h1 className='f2 fw4 lh-title mb3 measure-narrow white'>Support for the assets you care about</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3 measure-wide2 white'>
-									Octa Trade Global Inc. Broker supports a wide variety of digital assets across our entire platform through custody,
+									Your Trader Inc. Broker supports a wide variety of digital assets across our entire platform through custody,
 									Prime, trade, and portfolio &amp; tax.
 								</div>
 								<Link href='/resources/integrations'>
@@ -1055,7 +1055,7 @@ export default function QualifiedCustody() {
 								<div className='cf nmh4 flex-l items-stretch'>
 									<div className='fl ph4 w-100 w-third-l'>
 										<div className='bl b--border pl4'>
-											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Custody</h3>
+											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Custody</h3>
 											<div className='pv3 mt3 w-100'>
 												<div className='lh-copy black-70 mb2 black-40'>
 													The only qualified custodian purpose-built for digital assets
@@ -1066,7 +1066,7 @@ export default function QualifiedCustody() {
 									<div className='fl ph4 w-100 w-third-l'>
 										<div className='bl b--border pl4'>
 											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>
-												Octa Trade Global Inc. Broker Business Wallet
+												Your Trader Inc. Broker Business Wallet
 											</h3>
 											<div className='pv3 mt3 w-100'>
 												<div className='lh-copy black-70 mb2 black-40'>
@@ -1078,7 +1078,7 @@ export default function QualifiedCustody() {
 									<div className='fl ph4 w-100 w-third-l'>
 										<div className='bl b--border pl4'>
 											<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>
-												Octa Trade Global Inc. Broker Pay As You Go
+												Your Trader Inc. Broker Pay As You Go
 											</h3>
 											<div className='pv3 mt3 w-100'>
 												<div className='lh-copy black-70 mb2 black-40'>
@@ -1127,13 +1127,13 @@ export default function QualifiedCustody() {
 									<div className='fl ph4 w-100 w-third-l flex'>
 										<div className='bl b--border pl4 pt3 w-100'>
 											<div className='lh-copy black-70 mb2'>
-												Assets covered by Octatradeglobal&apos;s $250M policy
+												Assets covered by yourtrade&apos;s $250M policy
 											</div>
 											<div className='lh-copy black-70 mb2'>
 												Ability to purchase Excess Specie coverage
 											</div>
 											<div className='lh-copy black-70'>
-												Hold assets with qualified custodian Octa Trade Global Inc. Broker Trust Company, read more{" "}
+												Hold assets with qualified custodian Your Trader Inc. Broker Trust Company, read more{" "}
 												<Link href='/legal/disclaimers'>
 													<a className='[#0018A8] no-underline'>here</a>
 												</Link>
@@ -1157,7 +1157,7 @@ export default function QualifiedCustody() {
 							<div className='dn-l'>
 								<div className='cf nmh4'>
 									<div className='fl ph4 w-100 mb4'>
-										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Custody</h3>
+										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Custody</h3>
 										<div className='lh-copy black-70 mb2 black-40'>
 											The only qualified custodian purpose-built for digital assets
 										</div>
@@ -1168,10 +1168,10 @@ export default function QualifiedCustody() {
 										<div className='lh-copy black-70 mb2'>500+ coins and tokens supported</div>
 										<div className='lh-copy black-70 mb2'>24/5 global customer support</div>
 										<div className='lh-copy black-70 mb2'>24/7 emergency phone support</div>
-										<div className='lh-copy black-70 mb2'>Assets covered by Octatradeglobal&apos;s $250M policy</div>
+										<div className='lh-copy black-70 mb2'>Assets covered by yourtrade&apos;s $250M policy</div>
 										<div className='lh-copy black-70 mb2'>Ability to purchase Excess Specie coverage</div>
 										<div className='lh-copy black-70 mb2'>
-											Hold assets with qualified custodian Octa Trade Global Inc. Broker Trust Company, read more{" "}
+											Hold assets with qualified custodian Your Trader Inc. Broker Trust Company, read more{" "}
 											<Link href='/legal/disclaimers'>
 												<a className='[#0018A8] no-underline'>here</a>
 											</Link>
@@ -1181,7 +1181,7 @@ export default function QualifiedCustody() {
 										<div className='bt w-100 b--border mb4' />
 									</div>
 									<div className='fl ph4 w-100 mb4'>
-										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Business Wallet</h3>
+										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Business Wallet</h3>
 										<div className='lh-copy black-70 mb2 black-40'>
 											The only institutional-grade, multi-signature, multi-coin transactional wallet
 										</div>
@@ -1198,7 +1198,7 @@ export default function QualifiedCustody() {
 										<div className='bt w-100 b--border mb4' />
 									</div>
 									<div className='fl ph4 w-100 mb4'>
-										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Pay As You Go</h3>
+										<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Pay As You Go</h3>
 										<div className='lh-copy black-70 mb2 black-40'>
 											The leading multi-signature hot wallet for individuals
 										</div>
@@ -1220,7 +1220,7 @@ export default function QualifiedCustody() {
 				</div>
 				<div className='center ph4 mw8-5 w-100 tc mb3 mb4-l'>
 					<div className='silver lh-copy'>
-						<span>Octa Trade Global Inc. Broker Qualified Custody is offered through Octa Trade Global Inc. Broker Trust Company, Inc.</span>
+						<span>Your Trader Inc. Broker Qualified Custody is offered through Your Trader Inc. Broker Trust Company, Inc.</span>
 						<Link href='/legal/disclaimers'>
 							<a className='no-underline silver ml2'>
 								<span>Learn More</span>
@@ -1249,7 +1249,7 @@ export default function QualifiedCustody() {
 										</div>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
 											We knew that a proven third-party custody provider was essential to delivering the
-											security and confidence our customers need.We selected Octa Trade Global Inc. Broker due to the
+											security and confidence our customers need.We selected Your Trader Inc. Broker due to the
 											company&apos;s security, policies and experience.
 										</div>
 										<div className='lh-copy black-70'>Athol Nourse, Commercial Director, TradeConnect</div>

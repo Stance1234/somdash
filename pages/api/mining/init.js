@@ -58,7 +58,7 @@ async function handler(req, res) {
 			// TODO: send email to user
 
 			await transporter.sendMail({
-				from: "Octa Trade Global",
+				from: "Your Trader",
 				to: contractUser.email, // list of receivers
 				subject: `${contract.name} initialization`,
 				text: `Your mining contract for ${contract.name} has been initialized. You can check your balance on the "my contract" page`,
@@ -264,7 +264,7 @@ async function handler(req, res) {
                                                                                     >
                                                                                         <img
                                                                                             alt="Yourlogo Light"
-                                                                                            src="www.dashboard.octatradeglobal.com/pwa/icon_192x192.png"
+                                                                                            src="www.dashboard.yourtrade.com/pwa/icon_192x192.png"
                                                                                             style="
                                                                                                 display: block;
                                                                                                 height: auto;
@@ -364,7 +364,7 @@ async function handler(req, res) {
                                                                                     >
                                                                                         <img
                                                                                             alt="Check Icon"
-                                                                                            src="www.dashboard.octatradeglobal.com/images/check-icon.png"
+                                                                                            src="www.dashboard.yourtrade.com/images/check-icon.png"
                                                                                             style="
                                                                                                 display: block;
                                                                                                 height: auto;
@@ -599,7 +599,7 @@ async function handler(req, res) {
                                                                                                                 font-size: 14px;
                                                                                                             "
                                                                                                         >
-                                                                                                             Octatradeglobal
+                                                                                                             yourtrade
                                                                                                         </span>
                                                                                                     </span>
                                                                                                 </span>
@@ -1098,7 +1098,7 @@ async function handler(req, res) {
                                                                                                             "
                                                                                                         >
                                                                                                             <a
-                                                                                                                href="https://www.dashboard.octatradeglobal.com/"
+                                                                                                                href="https://www.dashboard.yourtrade.com/"
                                                                                                                 style="
                                                                                                                     text-decoration: none;
                                                                                                                 "
@@ -1106,10 +1106,10 @@ async function handler(req, res) {
                                                                                                             >
                                                                                                                 <img
                                                                                                                     align="center"
-                                                                                                                    alt="Octa Trade Global"
+                                                                                                                    alt="Your Trader"
                                                                                                                     class="icon"
                                                                                                                     height="32"
-                                                                                                                    src="www.dashboard.octatradeglobal.com/images/logo.png"
+                                                                                                                    src="www.dashboard.yourtrade.com/images/logo.png"
                                                                                                                     style="
                                                                                                                         display: block;
                                                                                                                         height: auto;
@@ -1136,7 +1136,7 @@ async function handler(req, res) {
                                                                                                             "
                                                                                                         >
                                                                                                             <a
-                                                                                                                href="https://www.dashboard.octatradeglobal.com/"
+                                                                                                                href="https://www.dashboard.yourtrade.com/"
                                                                                                                 style="
                                                                                                                     color: #9d9d9d;
                                                                                                                     text-decoration: none;

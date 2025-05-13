@@ -10274,53 +10274,53 @@ code {
 	background-color: rgba(167, 182, 194, 0.25);
 }
 @font-face {
-	font-family: Octatradeglobal-Canela-Web;
+	font-family: yourtrade-Canela-Web;
 	src: url(/fonts/canela/Canela-Medium-Web.woff2) format("woff2"), url(/fonts/canela/Canela-Medium-Web.woff) format("woff");
 	font-weight: 500;
 	font-style: normal;
 	font-stretch: normal;
 }
 @font-face {
-	font-family: Octatradeglobal-Canela-Web;
+	font-family: yourtrade-Canela-Web;
 	src: url(/fonts/canela/Canela-Regular-Web.woff2) format("woff2"), url(/fonts/canela/Canela-Regular-Web.woff) format("woff");
 	font-weight: 400;
 	font-style: normal;
 	font-stretch: normal;
 }
 @font-face {
-	font-family: Octatradeglobal-Canela-Web;
+	font-family: yourtrade-Canela-Web;
 	src: url(/fonts/canela/Canela-Light-Web.woff2) format("woff2"), url(/fonts/canela/Canela-Light-Web.woff) format("woff");
 	font-weight: 300;
 	font-style: normal;
 	font-stretch: normal;
 }
 @font-face {
-	font-family: Octatradeglobal-GT-America;
+	font-family: yourtrade-GT-America;
 	font-weight: 300;
 	src: url(/fonts/gt-america/GT-America-Standard-Light.woff2);
 }
 @font-face {
-	font-family: Octatradeglobal-GT-America;
+	font-family: yourtrade-GT-America;
 	font-weight: 400;
 	src: url(/fonts/gt-america/GT-America-Standard-Regular.woff2);
 }
 @font-face {
-	font-family: Octatradeglobal-GT-America;
+	font-family: yourtrade-GT-America;
 	font-weight: 500;
 	src: url(/fonts/gt-america/GT-America-Standard-Medium.woff2);
 }
 @font-face {
-	font-family: Octatradeglobal-GT-America;
+	font-family: yourtrade-GT-America;
 	font-weight: 600;
 	src: url(/fonts/gt-america/GT-America-Standard-Medium.woff2);
 }
 @font-face {
-	font-family: Octatradeglobal-GT-America;
+	font-family: yourtrade-GT-America;
 	font-weight: 700;
 	src: url(/fonts/gt-america/GT-America-Standard-Bold.woff2);
 }
 @font-face {
-	font-family: Octatradeglobal-GT-America;
+	font-family: yourtrade-GT-America;
 	font-weight: 800;
 	src: url(/fonts/gt-america/GT-America-Standard-Bold.woff2);
 }
@@ -15981,7 +15981,7 @@ pre[class*="language-"] {
 }
 body.l-bitGoHtmlRoot,
 html {
-	font-family: Octatradeglobal-GT-America, serif;
+	font-family: yourtrade-GT-America, serif;
 	font-weight: 300;
 }
 body.l-bitGoHtmlRoot .f1,
@@ -15992,7 +15992,7 @@ html .f1,
 html .f2,
 html .f3,
 html .f-subheadline {
-	font-family: Octatradeglobal-Canela-Web, sans-serif;
+	font-family: yourtrade-Canela-Web, sans-serif;
 	font-weight: 400;
 }
 @media screen and (min-width: 60em) {
@@ -16533,7 +16533,7 @@ tfoot .l-htmlTable-td {
 	transition: height 0.3s;
 }
 .b-heroIndex-bg {
-	background-image: url("https://www.dashboard.octatradeglobal.com/static/abstract-7fad101dec7b7471026acd4d7a67c29d.svg");
+	background-image: url("https://www.dashboard.yourtrade.com/static/abstract-7fad101dec7b7471026acd4d7a67c29d.svg");
 	background-position: 0;
 	background-size: contain;
 	background-repeat: no-repeat;

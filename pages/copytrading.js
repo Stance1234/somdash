@@ -7,7 +7,7 @@ function Copytrading() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>Copy Expert Traders - Octa Trade Global Inc. Broker </title>
+				<title>Copy Expert Traders - Your Trader Inc. Broker </title>
 			</Head>
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
 				<h1 className='center app-relative white-dark'>Copy Expert Traders</h1>

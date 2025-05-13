@@ -170,7 +170,7 @@ function DIsclaimer() {
 										tabIndex={0}>
 										<Link href='/legal/services-agreement-addendum'>
 											<a className='fw6 black-80 hover-color-[#0018A8] no-underline db pv1 pointer'>
-												General Addendum to Octa Trade Global Inc. Broker Services Agreement (EN)
+												General Addendum to Your Trader Inc. Broker Services Agreement (EN)
 											</a>
 										</Link>
 									</div>
@@ -347,52 +347,52 @@ function DIsclaimer() {
 								</div>
 							</div>
 							<div className='fl ph4 w-100 w-80-l'>
-								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Octa Trade Global Inc. Broker Disclaimers</h3>
+								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>Your Trader Inc. Broker Disclaimers</h3>
 								<div className='lh-copy black-70 mb4'>Last updated: April 12, 2022</div>
 								<div className='bt w-100 b--border mb4' />
 								<p className='lh-copy mb4 measure-wide2'>
-									Custody services are offered to eligible participants through Octa Trade Global Trust Company, Inc., a trust
-									company chartered in South Dakota and Octa Trade Global Inc. Broker New York Trust Company LLC, a limited purpose
-									trust company in New York. Octa Trade Global Inc. Broker Portfolio and Octa Trade Global Inc. Broker Tax are software solutions
-									offered through Octatradeglobal, Inc. Digital asset trading is done with Octa Trade Global Prime LLC as the
-									counterparty to all trades, with trading settlement services provided by Octa Trade Global Inc. Broker Trust
-									Company, Inc. Institutional digital asset lending services are provided by Octa Trade Global Inc. Broker Prime
-									LLC, and are not FDIC insured. Octa Trade Global Inc. Broker Trust Company, Inc., Octa Trade Global Inc. Broker New York Trust
-									Company LLC, Octatradeglobal, Inc., and Octa Trade Global Inc. Broker Prime LLC are separately operated, wholly-owned
-									subsidiaries of Octa Trade Global Inc. Broker Holdings, Inc., a Delaware corporation headquartered in Palo Alto,
+									Custody services are offered to eligible participants through Your Trader Trust Company, Inc., a trust
+									company chartered in South Dakota and Your Trader Inc. Broker New York Trust Company LLC, a limited purpose
+									trust company in New York. Your Trader Inc. Broker Portfolio and Your Trader Inc. Broker Tax are software solutions
+									offered through yourtrade, Inc. Digital asset trading is done with Your Trader Prime LLC as the
+									counterparty to all trades, with trading settlement services provided by Your Trader Inc. Broker Trust
+									Company, Inc. Institutional digital asset lending services are provided by Your Trader Inc. Broker Prime
+									LLC, and are not FDIC insured. Your Trader Inc. Broker Trust Company, Inc., Your Trader Inc. Broker New York Trust
+									Company LLC, yourtrade, Inc., and Your Trader Inc. Broker Prime LLC are separately operated, wholly-owned
+									subsidiaries of Your Trader Inc. Broker Holdings, Inc., a Delaware corporation headquartered in Palo Alto,
 									CA.
 								</p>
-								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Octa Trade Global Inc. Broker Inc.</h4>
+								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Your Trader Inc. Broker Inc.</h4>
 								<p className='lh-copy mb4 measure-wide2'>
-									Digital assets software solutions provided by Octa Trade Global Inc. Broker Inc., a separately operated,
-									wholly-owned subsidiary of Octa Trade Global Inc. Broker Holdings, Inc.
+									Digital assets software solutions provided by Your Trader Inc. Broker Inc., a separately operated,
+									wholly-owned subsidiary of Your Trader Inc. Broker Holdings, Inc.
 								</p>
-								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Octa Trade Global Inc. Broker Trust Company</h4>
+								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Your Trader Inc. Broker Trust Company</h4>
 								<p className='lh-copy mb4 measure-wide2'>
-									Custody services are offered to eligible participants through Octa Trade Global Trust Company, a trust
-									company chartered in both South Dakota and Octa Trade Global Inc. Broker New York Trust Company LLC, a limited
-									purpose trust company in New York. Octa Trade Global Inc. Broker Trust Company, Inc. and Octa Trade Global Inc. Broker New York
+									Custody services are offered to eligible participants through Your Trader Trust Company, a trust
+									company chartered in both South Dakota and Your Trader Inc. Broker New York Trust Company LLC, a limited
+									purpose trust company in New York. Your Trader Inc. Broker Trust Company, Inc. and Your Trader Inc. Broker New York
 									Trust Company LLC are not engaged in the offer, sale, trading, or lending of securities or
-									digital assets. Octa Trade Global Inc. Broker Trust Company, Inc. and Octa Trade Global New York Trust Company LLC are
-									separately operated, wholly-owned subsidiaries of Octa Trade Global Inc. Broker Holdings, Inc.
+									digital assets. Your Trader Inc. Broker Trust Company, Inc. and Your Trader New York Trust Company LLC are
+									separately operated, wholly-owned subsidiaries of Your Trader Inc. Broker Holdings, Inc.
 								</p>
-								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Octa Trade Global Inc. Broker Prime LLC</h4>
+								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Your Trader Inc. Broker Prime LLC</h4>
 								<p className='lh-copy mb4 measure-wide2'>
-									Octa Trade Global Inc. Broker Prime LLC is not engaged in the offer, sale, trading, or lending of securities.
-									Institutional digital asset lending services are provided by Octa Trade Global Inc. Broker Prime LLC, a
-									separately operated, wholly-owned subsidiary of Octa Trade Global Inc. Broker Holdings, Inc.
+									Your Trader Inc. Broker Prime LLC is not engaged in the offer, sale, trading, or lending of securities.
+									Institutional digital asset lending services are provided by Your Trader Inc. Broker Prime LLC, a
+									separately operated, wholly-owned subsidiary of Your Trader Inc. Broker Holdings, Inc.
 								</p>
-								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Octa Trade Global Inc. Broker Holdings LLC</h4>
+								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Your Trader Inc. Broker Holdings LLC</h4>
 								<p className='lh-copy mb4 measure-wide2'>
-									Octa Trade Global Inc. Broker Holdings LLC is not engaged in the business of the offer, sale or trading of
-									securities. Octa Trade Global Inc. Broker Holdings, Inc. is a Delaware corporation headquartered in Palo Alto,
+									Your Trader Inc. Broker Holdings LLC is not engaged in the business of the offer, sale or trading of
+									securities. Your Trader Inc. Broker Holdings, Inc. is a Delaware corporation headquartered in Palo Alto,
 									CA.
 								</p>
 								<p className='lh-copy mb4 measure-wide2'>
-									None of these Octa Trade Global Inc. Broker entities are registered with the U.S. Securities and Exchange (SEC),
+									None of these Your Trader Inc. Broker entities are registered with the U.S. Securities and Exchange (SEC),
 									the Commodity Futures Trading Commission (CFTC), have a broker-dealer license in any
 									jurisdiction, or are protected by the FDIC insurance. No legal, tax, investment, or other advice
-									is provided by any Octa Trade Global Inc. Broker entity. Please consult your legal/tax/investment professional
+									is provided by any Your Trader Inc. Broker entity. Please consult your legal/tax/investment professional
 									for questions about your specific circumstances.
 								</p>
 								<div className='bt w-100 b--border mb4 measure-wide2' />
@@ -443,14 +443,14 @@ function DIsclaimer() {
 									not be sufficient to cover all losses incurred by customers.
 									<br />
 									<br />
-									Octa Trade Global Inc. Broker New York Trust Company LLC is chartered as a limited purpose trust company and
+									Your Trader Inc. Broker New York Trust Company LLC is chartered as a limited purpose trust company and
 									licensed to engage in Virtual Currency Business Activity by the New York State Department of
-									Financial Services. If you have any questions or complaints, please first contact Octa Trade Global support
-									at support@octatradeglobal.com or by phone at 1 (650) 542-0730, or by mailing to: Octa Trade Global Inc. Broker Support,
+									Financial Services. If you have any questions or complaints, please first contact Your Trader support
+									at support@yourtrade.com or by phone at 1 (650) 542-0730, or by mailing to: Your Trader Inc. Broker Support,
 									2446 Ash Street, Palo Alto, CA 94306.
 									<br />
 									<br />
-									If you are a customer of Octa Trade Global Inc. Broker New York Trust Company LLC, you may also direct unresolved
+									If you are a customer of Your Trader Inc. Broker New York Trust Company LLC, you may also direct unresolved
 									complaints to the attention of: New York State Department of Financial Services, One State
 									Street, New York, NY 10004-1511; +1 (212) 480-6400. Please visit https://www.dfs.ny.gov for
 									additional information.

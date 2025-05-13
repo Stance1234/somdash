@@ -86,7 +86,7 @@ function ExploreEnigma() {
 												These GPUs are placed in &apos;Rigs&apos; which are specifically designed to
 												house as much hashing power as efficiently as possible. The miners&apos;
 												software is configured for maximum performance by mining Kernels (hardware
-												operating systems) like &apos;Octa Trade Global OS&apos; that we&apos;ve developed
+												operating systems) like &apos;Your Trader OS&apos; that we&apos;ve developed
 												in-house. We then manage it with our Hive interface.
 											</p>
 										</div>

@@ -15,7 +15,7 @@ function Integrations() {
 				<div className='cf nmh3'>
 					<div className='fl ph3 w-100 w-50-l'>
 						<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-							Octa Trade Global Inc. Broker is the chosen platform for digital currency security. Leveraging Octatradeglobal&apos;s single unified
+							Your Trader Inc. Broker is the chosen platform for digital currency security. Leveraging yourtrade&apos;s single unified
 							API platform, customers can store and secure a growing list of digital currencies in our security-first,
 							multi-signature wallets. Avoid the hassle of developing to multiple APIs for each coin or token, and greatly
 							reduce the time to market.
@@ -23,7 +23,7 @@ function Integrations() {
 					</div>
 					<div className='fl ph3 w-100 w-50-l'>
 						<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-							Octa Trade Global Inc. Broker wallets support the most widely held cryptocurrencies and new coins are made available on a
+							Your Trader Inc. Broker wallets support the most widely held cryptocurrencies and new coins are made available on a
 							regular basis. Support for hard forks and airdrops are based on a number of criteria, including technical
 							stability, market capitalization and liquidity.
 						</div>
@@ -111,8 +111,8 @@ function Integrations() {
 											<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Coins</h4>
 											<div className='lh-copy black-70 mb2'>
 												All coins supported by{" "}
-												<span className='fw6 black-80'>Octa Trade Global Inc. Broker Custody Wallets</span> and{" "}
-												<span className='fw6 black-80'>Octa Trade Global Inc. Broker Business Wallets</span>.
+												<span className='fw6 black-80'>Your Trader Inc. Broker Custody Wallets</span> and{" "}
+												<span className='fw6 black-80'>Your Trader Inc. Broker Business Wallets</span>.
 											</div>
 											<div className='lh-copy black-70 mb2'>
 												<Link href='/services/custody/wallet-platform#feature-wallet-comparison'>

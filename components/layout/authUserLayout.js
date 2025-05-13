@@ -27,7 +27,7 @@ function AuthUserLayout({ children }) {
 	return (
 		<>
 			<Head>
-				<title>Trading - Octa Trade Global</title>
+				<title>Trading - Your Trader</title>
 				<link rel='stylesheet' href='/css/reactapp.css' />
 				<link rel='stylesheet' href='/css/reactapp-modules.css' />
 			</Head>

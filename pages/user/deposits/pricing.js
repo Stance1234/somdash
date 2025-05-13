@@ -6,7 +6,7 @@ function DepositPricing() {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Pricing - Octatradeglobal</title>
+				<title>Pricing - yourtrade</title>
 			</Head>
 			<div className='container center'>
 				<div className='dark:text-slate-300 text-3xl'>Pricing</div>

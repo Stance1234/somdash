@@ -5,7 +5,7 @@ function Terms() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>Terms and Conditions - Octatradeglobal</title>
+				<title>Terms and Conditions - yourtrade</title>
 			</Head>
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
 				<h1 className='center app-relative white-dark'>Terms &amp; Conditions</h1>
@@ -16,8 +16,8 @@ function Terms() {
 				<br />
 				<p>
 					This Agreement is entered into by and these Terms &amp; Conditions (hereinafter referred to as the “Agreement”) shall
-					regulate the relationship between Octa Trade Global Inc. Broker LTD, (hereinafter referred to as the “Company”), and the user (a natural or
-					legal entity) (hereinafter referred to as the “Client”) of dashboard.octatradeglobal.com (hereinafter referred as the “Website”).
+					regulate the relationship between Your Trader Inc. Broker LTD, (hereinafter referred to as the “Company”), and the user (a natural or
+					legal entity) (hereinafter referred to as the “Client”) of dashboard.yourtrade.com (hereinafter referred as the “Website”).
 				</p>
 				<br />
 				<ol>
@@ -52,7 +52,7 @@ function Terms() {
 					</li>
 					<li>
 						A client that is a legal entity can register with the Company not through the Website but by sending an email with
-						its request to support@octatradeglobal.com. All terms and and conditions contained herein, including without limitation to 1 to
+						its request to support@yourtrade.com. All terms and and conditions contained herein, including without limitation to 1 to
 						5 above, shall at all times be applicable to the Legal Entity and the latter shall conform with such terms and
 						conditions, obligations and rights at all times.
 					</li>
@@ -744,7 +744,7 @@ function Terms() {
 						It is prohibited to abuse any of the privileges provided by the Company (e.g. creating multiple trading accounts
 						to claim these Benefits);
 					</li>
-					<li>The client may submit a request to support@octatradeglobal.com to stop receiving such Benefits at any time.</li>
+					<li>The client may submit a request to support@yourtrade.com to stop receiving such Benefits at any time.</li>
 				</ol>
 				<br />
 			</div>

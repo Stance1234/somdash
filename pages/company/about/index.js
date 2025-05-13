@@ -49,7 +49,7 @@ function About() {
 											animationName: "react-reveal-47166791378485-1",
 										}}>
 										<div className='mb4-l mb3 f4-l f5 fw3 lh-copy css-xmtlc8 white-90'>
-											Octa Trade Global Inc. Broker Inc. Broker enables our clients to navigate the complex landscape of digital assets with a
+											Your Trader Inc. Broker Inc. Broker enables our clients to navigate the complex landscape of digital assets with a
 											connected, compliant, and secure suite of solutions.
 										</div>
 									</div>
@@ -78,18 +78,18 @@ function About() {
 					<div className='center ph4 mw8-5 w-100 pt5 pt6-l mb5 mb6-l'>
 						<div className='cf nmh4'>
 							<div className='fl ph4 w-100 w-50-l mb4'>
-								<h1 className='f2 fw4 lh-title mb3'>About Octa Trade Global Inc. Broker Inc. Broker</h1>
+								<h1 className='f2 fw4 lh-title mb3'>About Your Trader Inc. Broker Inc. Broker</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									At Octa Trade Global Inc. Broker Inc. Broker, we believe digital assets will drive the global financial system. Our clients choose
-									Octa Trade Global Inc. Broker because they need services and solutions they can trust. Octa Trade Global Inc. Broker Inc. Broker&apos;s solution is built on
-									top of the strongest technological foundation in the industry, allowing Octa Trade Global Inc. Broker Inc. Broker to provide clients
+									At Your Trader Inc. Broker Inc. Broker, we believe digital assets will drive the global financial system. Our clients choose
+									Your Trader Inc. Broker because they need services and solutions they can trust. Your Trader Inc. Broker Inc. Broker&apos;s solution is built on
+									top of the strongest technological foundation in the industry, allowing Your Trader Inc. Broker Inc. Broker to provide clients
 									with an integrated solution for digital assets that mitigates risk and optimizes capital
 									efficiency.
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									Octa Trade Global Inc. Broker Inc. Broker&apos;s products appeal to all types of clients. From high-net-worth investors to leveraged
+									Your Trader Inc. Broker Inc. Broker&apos;s products appeal to all types of clients. From high-net-worth investors to leveraged
 									traders to institutional clients, our clients require the highest levels of security,
-									technology, and compliance. As a regulated, qualified custodian, Octa Trade Global Inc. Broker Inc. Broker is able to provide the
+									technology, and compliance. As a regulated, qualified custodian, Your Trader Inc. Broker Inc. Broker is able to provide the
 									true peace of mind that fiduciaries require to work with digital assets. We deliver standards,
 									such as{/* */}{" "}
 									<a
@@ -106,15 +106,15 @@ function About() {
 							<div className='fl ph4 w-100 w-50-l'>
 								<h1 className='f2 fw4 lh-title mb3'>How we got here</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									In 2012, Octa Trade Global Inc. Broker Inc. Broker CEO Mike Belshe was impressed by the technology behind Bitcoin and the emerging
+									In 2012, Your Trader Inc. Broker Inc. Broker CEO Mike Belshe was impressed by the technology behind Bitcoin and the emerging
 									cryptocurrency market for its novelty and its ability to change financial markets as we know
 									them. He manually built air-gapped storage systems for himself and many prominent angel
 									investors in Silicon Valley. As an internet pioneer and creator of the HTTP/2.0 protocol, Mike
 									had witnessed the rise-and-rise of malware on the Internet. As Bitcoin prices rose, he feared
 									his hobbyist&apos;s state-of-the-art air-gapped solution was not sufficient for the value he was
 									securing. He continued his research into Bitcoin and better solutions, and pioneered the first
-									commercially ready multi-signature wallets. These early projects led to the creation of Octa Trade Global Inc. Broker Inc. Broker in
-									2013 and is the foundation of Octa Trade Global Inc. Broker Inc. Broker&apos;s multi-signature system.
+									commercially ready multi-signature wallets. These early projects led to the creation of Your Trader Inc. Broker Inc. Broker in
+									2013 and is the foundation of Your Trader Inc. Broker Inc. Broker&apos;s multi-signature system.
 								</div>
 							</div>
 						</div>
@@ -127,7 +127,7 @@ function About() {
 							<div className='fl ph4 w-100 w-50-l'>
 								<h1 className='f2 fw4 lh-title mb3'>From security to financial services</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3 mb4 measure'>
-									Octa Trade Global Inc. Broker Inc. Broker is the only company that has been focused exclusively on serving institutional clients
+									Your Trader Inc. Broker Inc. Broker is the only company that has been focused exclusively on serving institutional clients
 									since 2013. In 2016, two things became clear:
 									<ul className='ml3 pl1 mt3'>
 										<li>Institutional clients needed more than a wallet for digital assets</li>
@@ -143,11 +143,11 @@ function About() {
 									markets in the world. No other asset class is traded with so little safety for large investors
 									where the exchange operates as all parties–the broker, the exchange, the clearing house, and
 									even the bank. In 2018, seeking to create a safer and more robust market for digital assets,
-									Octa Trade Global Inc. Broker Inc. Broker became the first independent, regulated custodian purpose built for digital assets by
-									launching Octa Trade Global Inc. Broker Inc. Broker Trust Company.
+									Your Trader Inc. Broker Inc. Broker became the first independent, regulated custodian purpose built for digital assets by
+									launching Your Trader Inc. Broker Inc. Broker Trust Company.
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3 mb4 measure'>
-									Today, Octa Trade Global Inc. Broker Inc. Broker is focused on working with clients, partners, and regulators to deliver innovative
+									Today, Your Trader Inc. Broker Inc. Broker is focused on working with clients, partners, and regulators to deliver innovative
 									security, custody, and liquidity solutions. Security and safety is forever our core
 									responsibility.
 								</div>
@@ -156,7 +156,7 @@ function About() {
 								<div className='mt5'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											We&apos;re proud that Octa Trade Global Inc. Broker Inc. Broker has played a significant role in the creation of the
+											We&apos;re proud that Your Trader Inc. Broker Inc. Broker has played a significant role in the creation of the
 											world&apos;s global financial system, and excited about what is to come. As a
 											sought-after leader in the space, we believe it is our responsibility to provide the
 											technological backbone so that everyone can use digital assets safely - and that
@@ -165,7 +165,7 @@ function About() {
 											has never been brighter.
 										</div>
 										<div className='lh-copy black-70'>
-											Mike Belshe{/* */}, {/* */}Co-founder and CEO, Octa Trade Global Inc. Broker Inc. Broker
+											Mike Belshe{/* */}, {/* */}Co-founder and CEO, Your Trader Inc. Broker Inc. Broker
 										</div>
 									</div>
 								</div>
@@ -259,7 +259,7 @@ function About() {
 									alt=''
 								/>
 								<h5 className='f6 f5-m f5-l fw5 lh-title black-90 mb1'>Jody Mettler</h5>
-								<div className='f7 gray fw6 mb2 lh-title'>President, Octa Trade Global Inc. Broker Inc. Broker Trust</div>
+								<div className='f7 gray fw6 mb2 lh-title'>President, Your Trader Inc. Broker Inc. Broker Trust</div>
 							</a>
 						</div>
 						<div className='ph2 ph3-l w-50 w-third-m w-third-l pointer dim mb4'>
@@ -413,7 +413,7 @@ function About() {
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									Join us to build the financial infrastructure of the future.
 								</div>
-								<a className='bp3-button l-button--xl mb2 mr2' href='https://boards.greenhouse.io/Octa Trade Global Inc. BrokerInc.Broker'>
+								<a className='bp3-button l-button--xl mb2 mr2' href='https://boards.greenhouse.io/Your Trader Inc. BrokerInc.Broker'>
 									See Open Positions
 									<svg className='b-hoverArrow' width={10} height={10} viewBox='0 0 10 10' aria-hidden='true'>
 										<g fillRule='evenodd'>
@@ -448,7 +448,7 @@ function About() {
 								</div>
 								<a
 									className='bp3-button bp3-fill bp3-intent-primary l-button--xl mb2 mr3'
-									href='https://boards.greenhouse.io/Octa Trade Global Inc. BrokerInc.Broker'>
+									href='https://boards.greenhouse.io/Your Trader Inc. BrokerInc.Broker'>
 									See Open Positions
 									<svg className='b-hoverArrow' width={10} height={10} viewBox='0 0 10 10' aria-hidden='true'>
 										<g fillRule='evenodd'>
@@ -487,7 +487,7 @@ function About() {
 				<div className='relative mb5 mb6-l'>
 					<div className='center ph4 mw8-5 w-100'>
 						<h1 className='f2 fw4 lh-title mb3-l mb2'>
-							<span>Octa Trade Global Inc. Broker In The News</span>
+							<span>Your Trader Inc. Broker In The News</span>
 						</h1>
 						<div className='mb3'>
 							<Link href='/company/newsroom'>
@@ -506,7 +506,7 @@ function About() {
 							target='_blank'
 							rel='noopener noreferrer'
 							className='bg-black-hover pointer w-100 no-underline black-90 pv4 db bb b--border'
-							href='https://www.bloomberg.com/news/articles/2021-05-05/novogratz-s-galaxy-buys-crypto-custodian-Octatradeglobalbroker-for-1-2-billion'>
+							href='https://www.bloomberg.com/news/articles/2021-05-05/novogratz-s-galaxy-buys-crypto-custodian-yourtradebroker-for-1-2-billion'>
 							<div className='cf nmh2'>
 								<div className='fl ph2 w-100 w-100 dn-l'>
 									<div className='mb3'>
@@ -520,7 +520,7 @@ function About() {
 								<div className='fl ph2 w-100 w-70-l'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Novogratz&apos;s Galaxy Buys Octa Trade Global Inc. Broker in $1.2 Billion Crypto Deal
+											Novogratz&apos;s Galaxy Buys Your Trader Inc. Broker in $1.2 Billion Crypto Deal
 										</div>
 									</div>
 									<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -571,7 +571,7 @@ function About() {
 								<div className='fl ph2 w-100 w-70-l'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Galaxy Digital to Buy Octa Trade Global Inc. Broker in Crypto Sector&apos;s First $1 Billion Deal
+											Galaxy Digital to Buy Your Trader Inc. Broker in Crypto Sector&apos;s First $1 Billion Deal
 										</div>
 									</div>
 									<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -622,7 +622,7 @@ function About() {
 								<div className='fl ph2 w-100 w-70-l'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Octa Trade Global Inc. Broker&apos;s $700 million crypto custody insurance program
+											Your Trader Inc. Broker&apos;s $700 million crypto custody insurance program
 										</div>
 									</div>
 									<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -673,7 +673,7 @@ function About() {
 								<div className='fl ph2 w-100 w-70-l'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Octa Trade Global Inc. Broker&apos;s Newest Charter Deepens Its Regulatory Arsenal
+											Your Trader Inc. Broker&apos;s Newest Charter Deepens Its Regulatory Arsenal
 										</div>
 									</div>
 									<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -724,7 +724,7 @@ function About() {
 								<div className='fl ph2 w-100 w-70-l'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Octa Trade Global Inc. Broker Reveals $250M in Bitcoin Holdings, Signaling More Crypto-Native Disclosures
+											Your Trader Inc. Broker Reveals $250M in Bitcoin Holdings, Signaling More Crypto-Native Disclosures
 											Ahead
 										</div>
 									</div>
@@ -776,7 +776,7 @@ function About() {
 								<div className='fl ph2 w-100 w-70-l'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											KPMG, Octa Trade Global Inc. Broker, Coin Metrics Launch New Offering to Drive Institutional Adoption
+											KPMG, Your Trader Inc. Broker, Coin Metrics Launch New Offering to Drive Institutional Adoption
 										</div>
 									</div>
 									<div className='f6 f5-l [#0018A8] fw6 no-underline'>
@@ -827,7 +827,7 @@ function About() {
 								<div className='fl ph2 w-100 w-70-l'>
 									<div className='flex flex-column justify-between'>
 										<div className='mb3 b-quote-copy f5 f4-m f3-l fw3 lh-copy'>
-											Crypto Company Octa Trade Global Inc. Broker Hires Coinbase&apos;s Former Compliance Chief
+											Crypto Company Your Trader Inc. Broker Hires Coinbase&apos;s Former Compliance Chief
 										</div>
 									</div>
 									<div className='f6 f5-l [#0018A8] fw6 no-underline'>

@@ -36,7 +36,7 @@ function CopyTraders({ traders, copiedTraders }) {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Copy Traders - Octatradeglobal</title>
+				<title>Copy Traders - yourtrade</title>
 			</Head>
 			<div className='row'>
 				<br />

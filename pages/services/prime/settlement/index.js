@@ -25,10 +25,10 @@ function Settlement() {
 								</div>
 								<div className='react-reveal' style={{ opacity: 1 }}>
 									<div className='mb4-l mb3 f4-l f5 fw3 lh-copy tc-l center-l measure-wide2 white mw8-l black-90'>
-										Octa Trade Global Inc. Broker Settlement addresses the most pressing structural issues in the digital asset
+										Your Trader Inc. Broker Settlement addresses the most pressing structural issues in the digital asset
 										market—mitigating counterparty risk and solving inefficient capital allocation.
-										Octatradeglobal&apos;s settlement network is secure. Assets never leave Octatradeglobal&apos;s qualified
-										custody and Octa Trade Global Inc. Broker has pre-cleared all parties.
+										yourtrade&apos;s settlement network is secure. Assets never leave yourtrade&apos;s qualified
+										custody and Your Trader Inc. Broker has pre-cleared all parties.
 									</div>
 								</div>
 								<div className='dn-l'>
@@ -57,7 +57,7 @@ function Settlement() {
 									<h1 className='f2 fw4 lh-title mb3'>Settle with trusted partners</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
 										Having onboarded and secured funds from OTC desks, exchanges, hedge funds, broker-dealers,
-										lenders, payment processors, and security token issuers under the regulated entity Octatradeglobal
+										lenders, payment processors, and security token issuers under the regulated entity yourtrade
 										Broker Trust Company, participants can choose their counterparties and check trading limit
 										pre-trade, and customize fund-locking options like limit and duration.
 									</div>
@@ -144,7 +144,7 @@ function Settlement() {
 										</div>
 										<div className='pa3 ba b--border mh2 w-100'>
 											<h6 className='f6 fw6 lh-title black-70 [#0018A8]'>
-												Octa Trade Global Inc. Broker Trust - Proprietary digital accounting system
+												Your Trader Inc. Broker Trust - Proprietary digital accounting system
 											</h6>
 										</div>
 									</div>
@@ -191,10 +191,10 @@ function Settlement() {
 								<div className='measure-wide2 center '>
 									<h1 className='f2 fw4 lh-title mb3'>Efficient and instantaneous settlement</h1>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy'>
-										Octa Trade Global Inc Broker&apos;s settlement service is managed by Octa Trade Global Inc. Broker Trust Company, allowing clients
+										Your Trader Inc Broker&apos;s settlement service is managed by Your Trader Inc. Broker Trust Company, allowing clients
 										to benefit from the security and compliance framework of a regulated trust company.
 										Counterparty risk is minimized by locking funds during settlement and funds are also
-										settled off-chain, reducing operational risk. Clients can connect to Octa Trade Global Inc. Broker
+										settled off-chain, reducing operational risk. Clients can connect to Your Trader Inc. Broker
 										Settlement via API, complemented by a native web interface, maximizing integration
 										flexibility.
 									</div>
@@ -208,7 +208,7 @@ function Settlement() {
 				</div>
 				<div className='center ph4 mw8-5 w-100 tc mb3 mb4-l'>
 					<div className='silver lh-copy'>
-						Octa Trade Global Inc. Broker Settlement is offered through Octa Trade Global Inc. Broker Trust Company, Inc.
+						Your Trader Inc. Broker Settlement is offered through Your Trader Inc. Broker Trust Company, Inc.
 						<Link href='/legal/disclaimers'>
 							<a className='no-underline silver ml2'>
 								Learn more

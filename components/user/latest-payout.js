@@ -20,7 +20,7 @@ function LatestPayout() {
 								<img src='/images/T2.jpeg' className='circle' style={{ maxHeight: "140px" }} />
 								<br />
 								<b>Claudie Gaylord</b>
-								<p>The Octa Trade Global team provided a lot of helpful advice when I asked about trading strategies.</p>
+								<p>The Your Trader team provided a lot of helpful advice when I asked about trading strategies.</p>
 								<br />
 							</div>
 							<div
@@ -52,7 +52,7 @@ function LatestPayout() {
 								<br />
 								<b>Annabelle Kuvalis</b>
 								<br />
-								<p>Octa Trade Global has allowed me to trade and sell more often without being concerned with large fees.</p>
+								<p>Your Trader has allowed me to trade and sell more often without being concerned with large fees.</p>
 								<br />
 							</div>
 							<div
@@ -63,7 +63,7 @@ function LatestPayout() {
 								<br />
 								<b>Vita Russel</b>
 								<p>
-									I am extremely pleased with the Octa Trade Global platform, in terms of ease and speed of use and
+									I am extremely pleased with the Your Trader platform, in terms of ease and speed of use and
 									reliability.
 								</p>
 								<br />

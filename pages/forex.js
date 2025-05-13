@@ -5,11 +5,11 @@ function AboutUs() {
 	return (
 		<UserLayout>
 			<Head>
-				<title>Trade Forex - Octatradeglobal</title>
+				<title>Trade Forex - yourtrade</title>
 			</Head>
 			<div style={{ paddingBottom: "6rem", paddingTop: "2rem" }} className='fade-appear-done fade-enter-done'>
 				<h1 className='center app-relative'>Trade Forex</h1>
-				<p className='app-relative center'>Trade forex on the Octa Trade Global Inc. Broker platform and enjoy reliable pricing and exceptional execution</p>
+				<p className='app-relative center'>Trade forex on the Your Trader Inc. Broker platform and enjoy reliable pricing and exceptional execution</p>
 			</div>
 
 			<div className='fade-appear-done fade-enter-done'>

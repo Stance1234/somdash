@@ -91,9 +91,7 @@ function Signin() {
 					
 				</form>
 
-				{/* <p>
-                                    <a href="/password.html">Forgot Password?</a>
-                                </p> */}
+
 				<p className='dark:text-slate-300 mt-5'>
 					<Link href='/forgot-password'>
 						<a className='text-[#0018A8]-500 ml-2'>Forgot password?</a>

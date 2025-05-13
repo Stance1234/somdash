@@ -37,7 +37,7 @@ function ExpertTrader() {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>{trader?.name || "Trader"} - Octatradeglobal</title>
+				<title>{trader?.name || "Trader"} - yourtrade</title>
 			</Head>
 			<div className='row'>
 				<div className='col l6 offset-l3 s12'>

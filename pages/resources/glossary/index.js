@@ -13,7 +13,7 @@ function Glossary() {
 									Ethereum Wallet Management
 								</div>
 								<h1 className='pt2 f2 f1-m f-subheadline-l fw5 mt0 mw9 mb3 mb4-l'>
-									How to lower Ethereum transaction costs with Octa Trade Global Inc. Broker wallets
+									How to lower Ethereum transaction costs with Your Trader Inc. Broker wallets
 								</h1>
 								<div className='lh-copy black-70 mb0'>Last updated: April, 2021</div>
 							</div>
@@ -31,30 +31,30 @@ function Glossary() {
 									user-friendly wallet that keeps fees low without compromising security.
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									Octatradeglobal&apos;s smart contract wallets allow users to realize meaningful reductions in ETH costs
+									yourtrade&apos;s smart contract wallets allow users to realize meaningful reductions in ETH costs
 									while also benefiting from the most secure, transparent, and scalable wallet technology on the
 									market.
 									<ul className='ml4 mt3'>
 										<li className='mb3'>
-											<span className='fw6'>Secure</span> - Octa Trade Global Inc. Broker smart contracts are highly
+											<span className='fw6'>Secure</span> - Your Trader Inc. Broker smart contracts are highly
 											optimized for both hot and cold wallets. They have been also audited by top firms
 											such as Quantstamp, OpenZeppelin, CertiK, and Coinspect to ensure they maintain the
 											highest levels of security.
 										</li>
 										<li className='mb3'>
-											<span className='fw6'>Accessible</span> - Octa Trade Global Inc. Broker Ethereum hot and cold wallets
+											<span className='fw6'>Accessible</span> - Your Trader Inc. Broker Ethereum hot and cold wallets
 											can interact with any decentralized finance application. Approvals are required
 											while interacting with DeFi to safeguard user funds.
 										</li>
 										<li className='mb3'>
-											<span className='fw6'>Scalable</span> - Octa Trade Global Inc. Broker smart contracts are built to
-											reduce both transaction fees and complexity. Octa Trade Global has processed millions of
+											<span className='fw6'>Scalable</span> - Your Trader Inc. Broker smart contracts are built to
+											reduce both transaction fees and complexity. Your Trader has processed millions of
 											transactions with its{" "}
 											<a
 												target='_BLANK'
 												className='[#0018A8] no-underline'
 												rel='noopener noreferrer'
-												href='https://github.com/Octatradeglobal/eth-multisig-v4'>
+												href='https://github.com/yourtrade/eth-multisig-v4'>
 												open source
 											</a>{" "}
 											2-of-3 multi-sig implementation.
@@ -62,7 +62,7 @@ function Glossary() {
 										<li className='mb3'>
 											<span className='fw6'>Transparent</span> - Our hot wallets are completely user
 											controlled, and our open source software allows users to prove ownership and recover
-											funds without the involvement of Octatradeglobal.
+											funds without the involvement of yourtrade.
 										</li>
 									</ul>
 								</div>
@@ -139,12 +139,12 @@ function Glossary() {
 							</div>
 							<div className='mb7'>
 								<h3 className='f4 f3-m f3-l fw6 lh-title tracked-condensed mb3'>
-									How Octa Trade Global Inc. Broker Ethereum Wallet Users Can Reduce Fees
+									How Your Trader Inc. Broker Ethereum Wallet Users Can Reduce Fees
 								</h3>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									<ul className='ml4'>
 										<li className='mb3'>
-											<span className='fw6'>Deploying CREATE2 Addresses</span> - Octa Trade Global uses{" "}
+											<span className='fw6'>Deploying CREATE2 Addresses</span> - Your Trader uses{" "}
 											<a
 												target='_BLANK'
 												className='[#0018A8] no-underline'
@@ -156,19 +156,19 @@ function Glossary() {
 											send funds to, a receive address before it exists on-chain. This reduces the number
 											of unused addresses and lowers the cost. Forwarder contracts are deployed when funds
 											are received, not at generation time.They forward Ethereum to the base multi-sig
-											wallet so that no additional consolidation transactions are required. Octa Trade Global Inc. Broker
+											wallet so that no additional consolidation transactions are required. Your Trader Inc. Broker
 											deploys highly optimized smart contracts using Factories and proxies to reduce
 											creation costs as much as possible. Smart contract receive addresses are
 											operationally better as all the ETH fees for the wallet are taken from a manageable
 											number of addresses.
 											<img
 												className='mw-100 center mb3'
-												alt='Octa Trade Global Inc. Broker Transaction Fees'
-												src='/static/Octatradeglobal-transaction-fees-ca14522d140d6d143b2539c8140d0485.png'
+												alt='Your Trader Inc. Broker Transaction Fees'
+												src='/static/yourtrade-transaction-fees-ca14522d140d6d143b2539c8140d0485.png'
 											/>
 										</li>
 										<li className='mb3'>
-											<span className='fw6'>Batching Transactions</span> - Octa Trade Global provides a way to send
+											<span className='fw6'>Batching Transactions</span> - Your Trader provides a way to send
 											ETH to multiple destination addresses in a single transaction. This batching of
 											transactions reduces the cost of a withdrawal. In addition, batching can be done
 											when gas prices are low which significantly increases savings in transaction fees,
@@ -181,21 +181,21 @@ function Glossary() {
 												target='_BLANK'
 												className='[#0018A8] no-underline'
 												rel='noopener noreferrer'
-												href='https://app.dashboard.octatradeglobal.com/docs/#operation/v2.wallet.changefee'>
-												Octa Trade Global Inc. Broker API
+												href='https://app.dashboard.yourtrade.com/docs/#operation/v2.wallet.changefee'>
+												Your Trader Inc. Broker API
 											</a>{" "}
-											or the Octa Trade Global Inc. Broker web UI. The Octa Trade Global Inc. Broker system is also highly flexible and lets
+											or the Your Trader Inc. Broker web UI. The Your Trader Inc. Broker system is also highly flexible and lets
 											you use multiple fee addresses per enterprise. With this feature, you can maintain
 											different queues for broadcasting transactions at different speeds, which not only
 											reduces your transaction fees but increases your transaction throughput.
 											<img
 												className='mw-100 center mb3'
-												alt='Octa Trade Global Inc. Broker ETH UI'
-												src='/static/Octatradeglobal-ui-eth-fees-8975f2648019994c20c275362acd7e1f.png'
+												alt='Your Trader Inc. Broker ETH UI'
+												src='/static/yourtrade-ui-eth-fees-8975f2648019994c20c275362acd7e1f.png'
 											/>
 										</li>
 										<li className='mb3'>
-											<span className='fw6'>Reducing Fees Further</span> - Octa Trade Global Inc. Broker also provides
+											<span className='fw6'>Reducing Fees Further</span> - Your Trader Inc. Broker also provides
 											customizable wallet settings that can be adjusted for each client&apos;s use cases
 											or needs. These wallet settings can help in ETH and token fee management such that
 											users can make the right trade-offs when it comes to confirmation times, transaction

@@ -50,7 +50,7 @@ function Signin() {
 			<NextSeo title='Forgot password' />
 			<div className='flex flex-col items-center py-10 dark:bg-black' style={{ minHeight: "100vh" }}>
 				<div className='w-30 h-30'>
-					<Image layout='intrinsic' src={logo} alt='Octatradeglobal' />
+					<Image layout='intrinsic' src={logo} alt='yourtrade' />
 				</div>
 
 				{emailSent === true ? (

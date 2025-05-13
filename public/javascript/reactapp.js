@@ -14637,7 +14637,7 @@
 												l.createElement(
 													"b",
 													{ className: "app-title ".concat("") },
-													"Octa Trade Global".toUpperCase()
+													"Your Trader".toUpperCase()
 												)
 											)
 										)
@@ -15143,13 +15143,13 @@
 									"div",
 									{ className: "col l8 s12 app-mobile-center" },
 									l.createElement("img", { src: "/assets/images/logo.png", style: { height: "72px" } }),
-									l.createElement("h3", { style: { marginTop: 0, marginBottom: "10px" } }, "Octa Trade Global"),
+									l.createElement("h3", { style: { marginTop: 0, marginBottom: "10px" } }, "Your Trader"),
 									l.createElement(
 										"p",
 										null,
 										l.createElement("span", { className: "material-icons notranslate" }, "mail"),
 										" ",
-										"support@octatradeglobal.com"
+										"support@yourtrade.com"
 									)
 								),
 								l.createElement(
@@ -15237,7 +15237,7 @@
 												l.createElement(
 													"b",
 													{ className: "app-title ".concat(n) },
-													"Octa Trade Global".toUpperCase()
+													"Your Trader".toUpperCase()
 												)
 											)
 										)
@@ -15836,7 +15836,7 @@
 						l.createElement(
 							l.Fragment,
 							null,
-							l.createElement(ht.ql, { title: "".concat(e.title || u.title, " - ").concat("Octa Trade Global") }),
+							l.createElement(ht.ql, { title: "".concat(e.title || u.title, " - ").concat("Your Trader") }),
 							(function () {
 								if (u) {
 									var e = u.title,
@@ -16128,7 +16128,7 @@
 						{ className: "bg bg-secondary app-gr-5" },
 						l.createElement("br", null),
 						l.createElement("br", null),
-						l.createElement("h2", { className: " center" }, "Octa Trade Global", " Facts"),
+						l.createElement("h2", { className: " center" }, "Your Trader", " Facts"),
 						l.createElement(
 							"div",
 							{ className: "container " },
@@ -16326,7 +16326,7 @@
 																	"p",
 																	{ className: "container" },
 																	"Enigma is powered by a setup of optimized GPUs (graphic processing units). These GPUs are placed in ‘Rigs’ which are specifically designed to house as much hashing power as efficiently as possible. The miners’ software is configured for maximum performance by mining Kernels (hardware operating systems) like ‘",
-																	"Octa Trade Global",
+																	"Your Trader",
 																	" OS’ that we’ve developed in-house. We then manage it with our Hive interface."
 																)
 															)
@@ -16628,7 +16628,7 @@
 												"p",
 												null,
 												"The ",
-												"Octa Trade Global",
+												"Your Trader",
 												" team provided a lot of helpful advice when I asked about trading strategies."
 											),
 											l.createElement("br", null)
@@ -16682,7 +16682,7 @@
 											l.createElement(
 												"p",
 												null,
-												"Octa Trade Global",
+												"Your Trader",
 												" has allowed me to trade and sell more often without being concerned with large fees."
 											),
 											l.createElement("br", null)
@@ -16701,7 +16701,7 @@
 												"p",
 												null,
 												"I am extremely pleased with the ",
-												"Octa Trade Global",
+												"Your Trader",
 												" platform, in terms of ease and speed of use and reliability."
 											),
 											l.createElement("br", null)
@@ -17943,7 +17943,7 @@
 											l.createElement(
 												st,
 												{ to: "/user/index.html" },
-												l.createElement("b", { className: "app-title" }, "Octa Trade Global".toUpperCase())
+												l.createElement("b", { className: "app-title" }, "Your Trader".toUpperCase())
 											)
 										)
 									),
@@ -18193,7 +18193,7 @@
 					return l.createElement(
 						l.Fragment,
 						null,
-						l.createElement(ht.ql, { title: "".concat(d || "", " - ").concat("Octa Trade Global") }),
+						l.createElement(ht.ql, { title: "".concat(d || "", " - ").concat("Your Trader") }),
 						(function () {
 							if (n) return l.createElement(Mn, { title: e.title })
 						})(),
@@ -18261,7 +18261,7 @@
 										"p",
 										null,
 										"Your account is currently locked, please contact ",
-										"support@octatradeglobal.com",
+										"support@yourtrade.com",
 										" to unlock"
 									)
 								)
@@ -18343,7 +18343,7 @@
 						l.createElement(
 							l.Fragment,
 							null,
-							l.createElement(ht.ql, { title: "".concat(e.title || "", " - ").concat("Octa Trade Global") }),
+							l.createElement(ht.ql, { title: "".concat(e.title || "", " - ").concat("Your Trader") }),
 							(function () {
 								if (n) return l.createElement(Mn, { title: e.title })
 							})(),
@@ -19954,7 +19954,7 @@
 								"p",
 								null,
 								"This Agreement is entered into by and these Terms & Conditions (hereinafter referred to as the “Agreement”) shall regulate the relationship between ",
-								"Octa Trade Global",
+								"Your Trader",
 								" LTD, (hereinafter referred to as the “Company”), and the user (a natural or legal entity) (hereinafter referred to as the “Client”) of ",
 								location.hostname,
 								" (hereinafter referred as the “Website”)."
@@ -19992,7 +19992,7 @@
 									"li",
 									null,
 									"A client that is a legal entity can register with the Company not through the Website but by sending an email with its request to",
-									"support@octatradeglobal.com",
+									"support@yourtrade.com",
 									". All terms and and conditions contained herein, including without limitation to 1 to 5 above, shall at all times be applicable to the Legal Entity and the latter shall conform with such terms and conditions, obligations and rights at all times."
 								)
 							),
@@ -20711,7 +20711,7 @@
 									"li",
 									null,
 									"The client may submit a request to ",
-									"support@octatradeglobal.com",
+									"support@yourtrade.com",
 									" to stop receiving such Benefits at any time."
 								)
 							),
@@ -20724,7 +20724,7 @@
 						title: "Trade Forex",
 						overlay: "overlay2",
 						desc: "Trade forex on the ".concat(
-							"Octa Trade Global",
+							"Your Trader",
 							" platform and enjoy reliable pricing and\n    exceptional execution"
 						),
 					}
@@ -20829,7 +20829,7 @@
 									l.createElement(
 										"p",
 										{ className: " light-text" },
-										"Octa Trade Global",
+										"Your Trader",
 										" was founded in 2014 by a group of professionals who are artfully combining the technical expertise required to Copy Professional Traders (If you can’t trade on your own). Forex Trading, Crypto Currency Trading and Stock Trading with a dedicated corporate team, state of the art headquarters and a passion for helping those with a strong desire to improve their lives"
 									),
 									l.createElement(
@@ -20883,7 +20883,7 @@
 											"p",
 											{ className: "f-24" },
 											"Traders from all over the world trust ",
-											"Octa Trade Global",
+											"Your Trader",
 											". The platform interface is localized into 12 languages.",
 											l.createElement("br", null),
 											l.createElement("br", null)
@@ -21116,7 +21116,7 @@
 							image: "hero5",
 							overlay: "overlay2",
 							title: "Payouts",
-							desc: "Recent Payouts To ".concat("Octa Trade Global", " Users"),
+							desc: "Recent Payouts To ".concat("Your Trader", " Users"),
 						}
 					return l.createElement(
 						Lt,
@@ -21167,11 +21167,11 @@
 							"div",
 							{ className: "container" },
 							l.createElement("br", null),
-							l.createElement("h3", null, "Build Your Cryptocurrency Trading Portfolio with ", "Octa Trade Global"),
+							l.createElement("h3", null, "Build Your Cryptocurrency Trading Portfolio with ", "Your Trader"),
 							l.createElement(
 								"p",
 								null,
-								"Octa Trade Global",
+								"Your Trader",
 								" is excited to announce the launch of our new cryptocurrency trading platform. Now you can start trading Bitcoin, Ethereum and many more cryptocurrencies quickly, easily and safely from wherever you are — in just seconds. You get great margin trading leverage and short sell options with fast deposits and withdrawals. Our support team is available 24/7/365 to help get you trading on our CySEC-regulated platform with a trading volume of US $11 billion monthly."
 							),
 							l.createElement("h3", null, "What is a crypto currency"),
@@ -21217,7 +21217,7 @@
 							l.createElement(
 								"p",
 								null,
-								"Octa Trade Global",
+								"Your Trader",
 								" Limited (in incorporation) (“us“, “we” or “Company“) respect the privacy of our users (each, “you” or “User“) and are committed to protect the privacy of Users who access, download, install or register to our mobile application (the “Application“), our website or any other online services we provide (collectively: the “Services“). The Company has papered this Privacy Policy to outline our practices with respect to collecting, using and disclosing your information when you use the Services. We encourage you to read the Privacy Policy carefully and use it to make informed decisions. By using the Services, you agree to the terms of this Privacy Policy and your continued use of the Services constitutes your ongoing agreement to the Privacy Policy. The Privacy Policy is a part of the Terms of Service and is incorporated there in by reference. In this Privacy Policy you will read about, among other things:"
 							),
 							l.createElement("br", null),
@@ -21468,7 +21468,7 @@
 												"p",
 												null,
 												"We respect your privacy rights and therefore you may contact us at any time and request: (i) to access, delete, change or update any Personal Information relating to you (for example, if you believe that your Personal Information is incorrect, you may ask to have it corrected or deleted); or (ii) that we will cease any further use of your Personal Information (for example, you may ask that we will stop using or sharing your Personal Information with third-parties) or that we shall remove your Personal Information (subject to any other legal obligation that may require us to keep the information). Please note that unless you instruct us otherwise we retain the information we collect for as long as needed to provide the Services and to comply with our legal obligations, resolve disputes and enforce our agreements. We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion. If you wish to raise a complaint on how we have handled your Personal Information, please contact us directly at ",
-												"support@octatradeglobal.com",
+												"support@yourtrade.com",
 												". If you are not satisfied with our response or believe we are collecting or processing your Personal Information not in accordance with the laws, you can complain to the applicable data protection authority."
 											)
 										)
@@ -21493,7 +21493,7 @@
 												"p",
 												null,
 												"We take great care in implementing and maintaining the security of the Services and your information. We employ industry standard procedures and policies to ensure the safety of your information and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse the Services or acted in an inappropriate manner, please contact us directly at",
-												"support@octatradeglobal.com",
+												"support@yourtrade.com",
 												"."
 											)
 										)
@@ -21610,7 +21610,7 @@
 												"p",
 												null,
 												"If you have any general questions regarding the Services or the information that we collect about you and how we use it, please contact us at ",
-												"support@octatradeglobal.com",
+												"support@yourtrade.com",
 												"."
 											)
 										)
@@ -21836,7 +21836,7 @@
 									l.createElement("br", null),
 									l.createElement("span", { className: "material-icons notranslate" }, "mail"),
 									" ",
-									"support@octatradeglobal.com",
+									"support@yourtrade.com",
 									l.createElement("br", null)
 								)
 							)
@@ -21870,7 +21870,7 @@
 						overlay: "overlay2",
 						title: "Trade Binary Options",
 						desc: "Trade Binary Options on the ".concat(
-							"Octa Trade Global",
+							"Your Trader",
 							" platform and enjoy reliable pricing and exceptional execution"
 						),
 					}
@@ -21931,7 +21931,7 @@
 							image: "hero5",
 							overlay: "overlay3",
 							title: "Deposits",
-							desc: "Recent Deposits From ".concat("Octa Trade Global", " Users"),
+							desc: "Recent Deposits From ".concat("Your Trader", " Users"),
 						}
 					return l.createElement(
 						Lt,
@@ -22352,7 +22352,7 @@
 																	"p",
 																	{ className: "container" },
 																	"Enigma is powered by a setup of optimized GPUs (graphic processing units). These GPUs are placed in ‘Rigs’ which are specifically designed to house as much hashing power as efficiently as possible. The miners’ software is configured for maximum performance by mining Kernels (hardware operating systems) like ‘",
-																	"Octa Trade Global",
+																	"Your Trader",
 																	" OS’ that we’ve developed in-house. We then manage it with our Hive interface."
 																)
 															)
@@ -22467,7 +22467,7 @@
 					})
 					var e = [
 							{
-								header: "How does Bitcoin mining work with ".concat("Octa Trade Global"),
+								header: "How does Bitcoin mining work with ".concat("Your Trader"),
 								body: "It’s quick and very easy! As soon as we receive your payment your contract will be added to your profile, and you can immediately start mining. Depending on the blockchain algorithm you select and the associated mining service agreement you enter into, you can either mine native cryptocurrencies directly or allocate your hashpower to other cryptocurrencies (marked with AUTO), and even choose a specific allocation for them. For example: 60% LTC, 20% BTC and 20% DOGE. The first mining output is released after 48 hours, and then a daily mining output will follow.",
 							},
 							{
@@ -22501,7 +22501,7 @@
 										"p",
 										null,
 										"(*) “",
-										"Octa Trade Global",
+										"Your Trader",
 										" Advanced Allocation” (special feature): It allows you to get mining outputs in many different coins even if they are not mined directly by a certain algorithm. For example, you can get mining outputs in BTC while mining with an X11 algorithm! That is possible by mining the DASH coin directly, which is then automatically swapped to BTC by our algorithmic framework. The Allocation function is designed for customers to receive delivery of their mining results in their preferred cryptocurrency. We call it “mining BTC the smart way”. The same technique is also used to get mining results in LTC with a SHA-256 contract, etc."
 									)
 								),
@@ -22554,7 +22554,7 @@
 										"p",
 										null,
 										"Please note that the website is an independent source of reference and not related to ",
-										"Octa Trade Global",
+										"Your Trader",
 										" in any manner."
 									)
 								),
@@ -22600,7 +22600,7 @@
 										"p",
 										null,
 										"Delivery time: when you pay for your device you have to wait until the miner is packaged and shipped; if it is held up in the customs this can take weeks. And during that time you cannot mine at all (“opportunity costs”). You have to wait and hope. And if the merchant has a stock shortage; it is you who has to wait. With",
-										"Octa Trade Global",
+										"Your Trader",
 										" you pay and get your hashpower immediately online. No delays!"
 									),
 									l.createElement(
@@ -22617,7 +22617,7 @@
 										"p",
 										null,
 										"Maintenance: hardware failures, outages and crashes could lead to downtimes between seconds and weeks. If your unit breaks you have to return it and start from scratch (by the way: check the guarantee time of your miner; it is often less than a year). With ",
-										"Octa Trade Global",
+										"Your Trader",
 										" ",
 										"you have a guaranteed uptime of 100%: in case one of your units fails another unit will be switched over and start mining for you the very same second."
 									),
@@ -22660,14 +22660,14 @@
 									l.createElement(
 										"p",
 										null,
-										"Octa Trade Global",
+										"Your Trader",
 										" allows its clients to mine different types of coins at the same time. You decide which coins you prefer and you can allocate hashpower accordingly."
 									),
 									l.createElement(
 										"p",
 										null,
 										"Each mining algorithm is set up with a default delivery cryptocurrency. The ",
-										"Octa Trade Global",
+										"Your Trader",
 										" Advanced Auto-Allocation (in short “AUTO”) will apply to all cryptocurrencies which cannot be mined directly. In the user interface go to “Mining Allocation” and choose the hashpower allocation that is best for you. When you are done press “save allocation”."
 									),
 									l.createElement(
@@ -22679,7 +22679,7 @@
 										"p",
 										null,
 										"In order to get the mining output, please ensure to add your wallet address(es) to your ",
-										"Octa Trade Global",
+										"Your Trader",
 										" profile. Find out more details about how to add your wallet(s) in the next section."
 									)
 								),
@@ -22766,7 +22766,7 @@
 							{
 								header: "I forgot my 2FA code, what can I do?",
 								body: "For security reasons, we only allow the deactivation of the 2FA code through a personal dialog via ticket.\n\n        Please scroll down to the web contact form, select: ‘My account - General - Lost access to my device (I forgot 2FA code)’ and we will send you the instructions on how to confirm your account ownership. Before submitting the ticket, please make sure you enter the primary e-mail address of your ".concat(
-									"Octa Trade Global",
+									"Your Trader",
 									" account, or else we won’t be able to help you."
 								),
 							},
@@ -22782,22 +22782,22 @@
 								header: "How can I create a new account",
 								body: "To create a "
 									.concat(
-										"Octa Trade Global",
+										"Your Trader",
 										" account, simply click on SIGN UP, enter your e-mail address and a secure password, and repeat the chosen password.\n\n        Read and agree to the Privacy Policy by checking the box (mandatory), and decide if you’d like to receive occasional e-mails about our offers and discounts (optional).\n        \n        After you confirm the reCAPTCHA and click on ‘Sign Up‘, go to your e-mail Inbox and verify your e-mail address.* Once you click on the verification link, it will automatically log you into your "
 									)
 									.concat(
-										"Octa Trade Global",
+										"Your Trader",
 										" account.\n        \n        *In case you did not receive a verification e-mail, please also check your Junk/Spam folder. If you cannot find the e-mail in any of the folders, please go to the "
 									)
 									.concat(
-										"Octa Trade Global",
+										"Your Trader",
 										" ‘Login‘ page, enter the needed info to log in, and there you will be able to select ‘Resend verification e-mail‘."
 									),
 							},
 							{
 								header: "How can I erase my account?",
 								body: "If you have decided that you want to delete your account and stop being a member of the ".concat(
-									"Octa Trade Global",
+									"Your Trader",
 									" family, please contact our customer service using your primary e-mail address. Just select ‘My account - General - Terminate my account’ in our topic drop-down menu.\n\n        We wish you success in all your future crypto endeavors!"
 								),
 							},
@@ -22806,7 +22806,7 @@
 							{
 								header: "Why is my mining output decreasing?",
 								body: "We do not control the market evolution and thus we cannot control the mining rewards. There are certain factors which may affect your outputs depending on the product you have purchased.\n\n      This is the way your mining outputs will mostly vary:\n      \n      1. It may happen that due to the lower mining output, the global interest in mining the natively mined coin of your contract diminishes. This would mean a decrease in the mining difficulty, which would also have a positive impact increasing your mining outputs. Conversely, if difficulty rises, your output will decrease.\n      \n      2. If you change your allocation to any of the available AUTO coins (not natively mined), your mining outputs will be traded from the coin that is natively mined to the selected AUTO coin(s). Therefore, the exchange rate will affect your mining outputs.\n      \n      For any further questions regarding your contract, feel free to contact us via our web form or the “Contact Customer Service” section on your ".concat(
-									"Octa Trade Global",
+									"Your Trader",
 									" account."
 								),
 							},
@@ -23178,7 +23178,7 @@
 										l.createElement(
 											"center",
 											null,
-											l.createElement("h2", null, "Why ", "Octa Trade Global", "?"),
+											l.createElement("h2", null, "Why ", "Your Trader", "?"),
 											l.createElement("br", null),
 											l.createElement("span", null, "We are making mining accessible to everyone."),
 											l.createElement("br", null),
@@ -23438,7 +23438,7 @@
 								l.createElement("br", null),
 								l.createElement("br", null),
 								"Note though that when you’re outsourcing your mining activity to a cloud mining provider you will take a degree of risk. You hand over almost all control to the cloud mining vendor. That's why choose only reputable cloud mining providers like ",
-								"Octa Trade Global",
+								"Your Trader",
 								"."
 							)
 						)
@@ -23543,7 +23543,7 @@
 								l.createElement("br", null),
 								l.createElement("br", null),
 								"You might find some cloud mining vendors offer a couple of months of free mining. However always make sure you are completely aware of all terms and conditions. ",
-								"Octa Trade Global",
+								"Your Trader",
 								" can be a good option here.",
 								l.createElement("br", null),
 								l.createElement("br", null),
@@ -24333,7 +24333,7 @@
 											l.createElement(
 												"b",
 												{ className: "app-title", style: { paddingLeft: "1rem" } },
-												"Octa Trade Global".toUpperCase()
+												"Your Trader".toUpperCase()
 											)
 										)
 									)
@@ -25061,7 +25061,7 @@
 												"div",
 												{ className: "chip" },
 												"contact ",
-												"support@octatradeglobal.com",
+												"support@yourtrade.com",
 												" to claim your rewards.",
 												l.createElement("i", { className: "close material-icons" }, "close")
 											)
@@ -26432,7 +26432,7 @@
 							)
 						),
 						l.createElement("br", null),
-						l.createElement("center", null, l.createElement("p", null, "Octa Trade Global"))
+						l.createElement("center", null, l.createElement("p", null, "Your Trader"))
 					)
 				},
 				Lr = function (e) {
