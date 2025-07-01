@@ -10,7 +10,7 @@ const LiveChat = () => {
         const firstScript = document.getElementsByTagName('script')[0];
         
         // Set the session/tracking ID (if needed elsewhere, you might want to manage this differently)
-        window.stid = '';
+        window.stid = 'ZG96YUw3eTBCZE1FbEVQdlBXRnNtUT09';
         
         script.type = 'text/javascript';
         script.async = true;
