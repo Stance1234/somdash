@@ -35,10 +35,10 @@ async function handler(req, res) {
 			let htmlData = await getTemplate(req, "email-verification", "code.html")
 			htmlData = htmlData.replaceAll("[name]", user.firstname)
 			htmlData = htmlData.replaceAll("[code]", pin)
-			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
+			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Growthpoint Invest Ltd")
 
 			await transporter.sendMail({
-				from: "support@yourtrade.com", // sender address
+				from: "support@growthpointinvestld.com", // sender address
 				to: email, // list of receivers
 				subject: "Email verification Pin", // Subject line
 				text: `PIN: ${pin}`, // plain text body

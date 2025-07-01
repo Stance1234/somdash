@@ -51,7 +51,7 @@ function AdminLogin() {
             <Head>
 
                 {/* <!-- Title --> */}
-                <title>Trademark Your Trader Inc. Broker dashboard</title>
+                <title>Trademark Growthpoint Invest Ltd Inc. Broker dashboard</title>
 
                 {/* <!-- Bootstrap css--> */}
                 <link href="/admin/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>

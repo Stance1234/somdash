@@ -36,7 +36,7 @@ function CopyTraders({ traders, copiedTraders }) {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Copy Traders - yourtrade</title>
+				<title>Copy Traders - growthpointinvestld</title>
 			</Head>
 			<div className='row'>
 				<br />

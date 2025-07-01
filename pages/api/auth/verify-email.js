@@ -34,13 +34,13 @@ import getTemplate from "../../../lib/get-email-template"
 // 			htmlData = htmlData.replaceAll("[title]", "introduction")
 // 			htmlData = htmlData.replaceAll("[position]", "Chief Marketing Officer")
 // 			htmlData = htmlData.replaceAll("[name of employee]", "Mrs Olivia")
-// 			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
+// 			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Growthpoint Invest Ltd")
 
 // 			await transporter.sendMail({
 // 				from: "support@octainvtradings.com", // sender address
 // 				to: email, // list of receivers
 // 				subject: "Welcome", // Subject line
-// 				text: `Welcome to Your Trader`, // plain text body
+// 				text: `Welcome to Growthpoint Invest Ltd`, // plain text body
 // 				html: htmlData, // html body
 // 			})
 
@@ -85,13 +85,13 @@ async function handler(req, res) {
             htmlData = htmlData.replaceAll("[title]", "introduction")
             htmlData = htmlData.replaceAll("[position]", "Chief Marketing Officer")
             htmlData = htmlData.replaceAll("[name of employee]", "Mrs Olivia")
-            htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
+            htmlData = htmlData.replace(/\[brand\s+name\]/g, "Growthpoint Invest Ltd")
 
             await transporter.sendMail({
-                from: "support@yourtrade.com", // sender address
+                from: "support@growthpointinvestld.com", // sender address
                 to: email, // list of receivers
                 subject: "Welcome", // Subject line
-                text: `Welcome to Your Trader`, // plain text body
+                text: `Welcome to Growthpoint Invest Ltd`, // plain text body
                 html: htmlData, // html body
             })
 

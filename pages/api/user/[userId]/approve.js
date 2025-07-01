@@ -34,10 +34,10 @@ async function handler(req, res) {
 			// TODO: update email file
 			htmlData = htmlData.replaceAll("[name]", searchedUser.firstname)
 			// htmlData = htmlData.replaceAll("[message]", message)
-			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
+			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Growthpoint Invest Ltd")
 			// TODO: send email to user
 			await transporter.sendMail({
-				from: "Your Trader", // sender address
+				from: "Growthpoint Invest Ltd", // sender address
 				to: searchedUser.email, // list of receivers
 				subject: "Profile Verification", // Subject line
 				text: "We're happy to let you know that your profile has been verified. You can now access more of our services.", // plain text body

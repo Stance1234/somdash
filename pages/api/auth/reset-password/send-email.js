@@ -32,13 +32,13 @@ async function handler(req, res) {
 				let htmlData = await getTemplate(req, "password", "reset.html")
 				htmlData = htmlData.replaceAll("[name]", user.firstname)
 				htmlData = htmlData.replace(/\[token\]/g, pin[0])
-				htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
+				htmlData = htmlData.replace(/\[brand\s+name\]/g, "Growthpoint Invest Ltd")
 
 				await transporter.sendMail({
-					from: "Your Trader", // sender address
+					from: "Growthpoint Invest Ltd", // sender address
 					to: email, // list of receivers
 					subject: "Password Reset", // Subject line
-					text: `Password Reset: https://dashboard.yourtrade.com/user/auth/password-reset?token=${pin}`, // plain text body
+					text: `Password Reset: https://dashboard.growthpointinvestld.com/user/auth/password-reset?token=${pin}`, // plain text body
 					html: htmlData, // html body
 				})
 

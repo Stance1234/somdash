@@ -25,7 +25,7 @@ function PrimeLending() {
 								</div>
 								<div className='react-reveal' style={{ opacity: 1 }}>
 									<div className='mb4-l mb3 f4-l f5 fw3 lh-copy tc-l center-l measure-wide2 white black-90'>
-										Your Trader Inc. Broker Prime lets you lend or borrow at competitive rates with a deep inventory
+										Growthpoint Invest Ltd Inc. Broker Prime lets you lend or borrow at competitive rates with a deep inventory
 										pool, thanks to the extensive, credible network we&apos;ve built as the industry&apos;s
 										leading institutional crypto custodian.{" "}
 									</div>
@@ -64,7 +64,7 @@ function PrimeLending() {
 																Earn competitive yield with reduced counterparty risk.{" "}
 															</li>
 															<li className='mb2'>
-																Custody and lend your funds through yourtrade&apos;s
+																Custody and lend your funds through growthpointinvestld&apos;s
 																integrated solution.
 															</li>
 														</ul>
@@ -90,12 +90,12 @@ function PrimeLending() {
 													<div>
 														<ul className='ml4'>
 															<li className='mb2'>
-																Access competitive rates, thanks to yourtrade&apos;s
+																Access competitive rates, thanks to growthpointinvestld&apos;s
 																established network of customers.
 															</li>
 															<li className='mb2'>Depend on stable terms.</li>
 															<li className='mb2'>
-																Face Your Trader Inc. Broker as your sole counterparty.
+																Face Growthpoint Invest Ltd Inc. Broker as your sole counterparty.
 															</li>
 														</ul>
 													</div>
@@ -451,10 +451,10 @@ function PrimeLending() {
 				</div>
 				<div className='center ph4 mw8-5 w-100 tc mb3 mb4-l'>
 					<div className='silver lh-copy'>
-						Your Trader Inc. Broker Prime LLC, a wholly-owned subsidiary of Your Trader Inc. Broker Holdings, Inc., provides lending and trading
-						services to eligible counterparties. All custodial services are provided by Your Trader Inc. Broker Trust Company. yourtrade
-						Broker Prime and Your Trader Inc. Broker Trust together offer certain integrated solutions, such as clearing and settlement
-						services. Any insurance coverage maintained by Your Trader applies only to digital assets held in cold storage by yourtrade
+						Growthpoint Invest Ltd Inc. Broker Prime LLC, a wholly-owned subsidiary of Growthpoint Invest Ltd Inc. Broker Holdings, Inc., provides lending and trading
+						services to eligible counterparties. All custodial services are provided by Growthpoint Invest Ltd Inc. Broker Trust Company. growthpointinvestld
+						Broker Prime and Growthpoint Invest Ltd Inc. Broker Trust together offer certain integrated solutions, such as clearing and settlement
+						services. Any insurance coverage maintained by Growthpoint Invest Ltd applies only to digital assets held in cold storage by growthpointinvestld
 						Broker Trust pursuant to a custodial services agreement.
 						<br />
 						<br />

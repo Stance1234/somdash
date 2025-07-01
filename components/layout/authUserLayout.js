@@ -27,7 +27,7 @@ function AuthUserLayout({ children }) {
 	return (
 		<>
 			<Head>
-				<title>Trading - Your Trader</title>
+				<title>Trading - Growthpoint Invest Ltd</title>
 				<link rel='stylesheet' href='/css/reactapp.css' />
 				<link rel='stylesheet' href='/css/reactapp-modules.css' />
 			</Head>

@@ -47,7 +47,7 @@ function TradingWatchlist({ assets }) {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Assets Markets - yourtrade</title>
+				<title>Assets Markets - growthpointinvestld</title>
 			</Head>
 			<div className='container'>
 				<center>

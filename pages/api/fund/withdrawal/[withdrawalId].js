@@ -35,12 +35,12 @@ async function handler(req, res) {
 			const { amount } = withdrawal
 			// TODO: send email
 			await transporter.sendMail({
-				from: "Your Trader", // sender address
+				from: "Growthpoint Invest Ltd", // sender address
 				to: withdrawalUser.email, // list of receivers
 				subject: "Withdrawal request status update", // Subject line
 				text: `Your request to withdrawal $${commaNumber(
 					amount
-				)} from your ${type} account has been recieved.\n Thank you for using yourtrade.`, // plain text body
+				)} from your ${type} account has been recieved.\n Thank you for using growthpointinvestld.`, // plain text body
 				html: `<!DOCTYPE html>
 
                 <html
@@ -253,7 +253,7 @@ async function handler(req, res) {
                                                                                         <span
                                                                                             class="tinyMce-placeholder"
                                                                                         >
-                                                                                            yourtrade
+                                                                                            growthpointinvestld
                                                                                         </span>
                                                                                     </h1>
                                                                                 </td>
@@ -288,7 +288,7 @@ async function handler(req, res) {
                                                                                     >
                                                                                         <img
                                                                                             alt="Check Icon"
-                                                                                            src="www.dashboard.yourtrade.com/images/check-icon.png"
+                                                                                            src="www.dashboard.growthpointinvestld.com/images/check-icon.png"
                                                                                             style="
                                                                                                 display: block;
                                                                                                 height: auto;
@@ -1032,16 +1032,16 @@ async function handler(req, res) {
                                                                                                         for
                                                                                                         using
                                                                                                         <a
-                                                                                                            href="https://www.dashboard.yourtrade.com"
+                                                                                                            href="https://www.dashboard.growthpointinvestld.com"
                                                                                                             rel="noopener"
                                                                                                             style="
                                                                                                                 text-decoration: none;
                                                                                                                 color: #8a3b8f;
                                                                                                             "
                                                                                                             target="_blank"
-                                                                                                            title="Your Trader"
+                                                                                                            title="Growthpoint Invest Ltd"
                                                                                                         >
-                                                                                                            https://www.dashboard.yourtrade.com.
+                                                                                                            https://www.dashboard.growthpointinvestld.com.
                                                                                                         </a>
                                                                                                     </span>
                                                                                                 </span>
@@ -1408,7 +1408,7 @@ async function handler(req, res) {
                                                                                                             "
                                                                                                         >
                                                                                                             <a
-                                                                                                                href="https://www.dashboard.yourtrade.com/"
+                                                                                                                href="https://www.dashboard.growthpointinvestld.com/"
                                                                                                                 style="
                                                                                                                     text-decoration: none;
                                                                                                                 "
@@ -1419,7 +1419,7 @@ async function handler(req, res) {
                                                                                                                     alt="trademark fx"
                                                                                                                     class="icon"
                                                                                                                     height="32"
-                                                                                                                    src="www.dashboard.yourtrade.com/images/logo.png"
+                                                                                                                    src="www.dashboard.growthpointinvestld.com/images/logo.png"
                                                                                                                     style="
                                                                                                                         display: block;
                                                                                                                         height: auto;
@@ -1446,14 +1446,14 @@ async function handler(req, res) {
                                                                                                             "
                                                                                                         >
                                                                                                             <a
-                                                                                                                href="https://www.dashboard.yourtrade.com//"
+                                                                                                                href="https://www.dashboard.growthpointinvestld.com//"
                                                                                                                 style="
                                                                                                                     color: #9d9d9d;
                                                                                                                     text-decoration: none;
                                                                                                                 "
                                                                                                                 target="_blank"
                                                                                                             >
-                                                                                                                trading is easy with yourtrade
+                                                                                                                trading is easy with growthpointinvestld
                                                                                                             </a>
                                                                                                         </td>
                                                                                                     </tr>

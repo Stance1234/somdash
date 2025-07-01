@@ -17,7 +17,7 @@ function UserWithdrawalList({ withdrawals }) {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Withdrawal history - yourtrade</title>
+				<title>Withdrawal history - growthpointinvestld</title>
 			</Head>
 			<div className='container row'>
 				<div className='col l8 s12'>

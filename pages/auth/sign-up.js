@@ -152,7 +152,7 @@ function Signin({ data }) {
 					}}>
 					
 					<div className='mb3'>
-						<div className='f4 f3-m f3-l fw7 lh-title tracked-condensed mb3'>Get started with Your Trader PayGo</div>
+						<div className='f4 f3-m f3-l fw7 lh-title tracked-condensed mb3'>Get started with Growthpoint Invest Ltd PayGo</div>
 						<div className='f7 f6-m f6-l lh-copy black-70 mb4'>
 							Create a Pay As You Go hot wallet now. No contract required.
 						</div>
@@ -535,7 +535,7 @@ function Signin({ data }) {
 									← Back
 								</span>
 								<div className='dn db-ns'>
-									Already have a Your Trader account?
+									Already have a Growthpoint Invest Ltd account?
 									<Link href='/auth/log-in'>
 										<a className='fw5 [#0018A8]' tabIndex={8}>
 											Log in
@@ -558,7 +558,7 @@ function Signin({ data }) {
 								</div>
 							</div>
 							<div className='db-s dn-m dn-l tc'>
-								Already have a Your Trader account?
+								Already have a Growthpoint Invest Ltd account?
 								<Link href='/auth/log-in'>
 									<a className='fw5 [#0018A8]' tabIndex={8}>
 										Log in

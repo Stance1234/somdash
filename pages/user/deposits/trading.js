@@ -7,7 +7,7 @@ function TradingPlans() {
 	return (
 		<AuthUserLayout>
 			<Head>
-				<title>Trading Plans - yourtrade</title>
+				<title>Trading Plans - growthpointinvestld</title>
 			</Head>
 			<PricingDisplay hasAction />
 			{/* <div className="container center">

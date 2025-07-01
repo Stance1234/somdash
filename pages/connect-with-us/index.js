@@ -16,7 +16,7 @@ function ConnectWithUs() {
 									learn more
 								</h1>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb4'>
-									Your Trader Inc. Broker is the leader in institutional staking, custody, and trading.
+									Growthpoint Invest Ltd Inc. Broker is the leader in institutional staking, custody, and trading.
 									<br />
 									<br />
 									We enable our clients to navigate the complex landscape of digital assets with a connected,
@@ -24,19 +24,19 @@ function ConnectWithUs() {
 									<br />
 									<br />
 									Please complete our form or email us at{" "}
-									<a className='[#0018A8]' href='mailto:admin@yourtradebroker.com'>
-										sales@yourtradebroker.com
+									<a className='[#0018A8]' href='mailto:admin@growthpointinvestldbroker.com'>
+										sales@growthpointinvestldbroker.com
 									</a>{" "}
 									and a member of our team will be in touch shortly. If you are a coin foundation or token project
 									and would like to inquire about listing, email us at{" "}
-									<a className='[#0018A8]' href='mailto:support@yourtrade.com'>
-										support@yourtrade.com
+									<a className='[#0018A8]' href='mailto:support@growthpointinvestld.com'>
+										support@growthpointinvestld.com
 									</a>
 									.<br />
 									<br />
 									For support inquiries please email us at{" "}
-									<a className='[#0018A8]' href='mailto:support@yourtrade.com'>
-										support@yourtrade.com
+									<a className='[#0018A8]' href='mailto:support@growthpointinvestld.com'>
+										support@growthpointinvestld.com
 									</a>
 									.
 								</div>
@@ -1100,7 +1100,7 @@ function ConnectWithUs() {
 											<span className='bp3-control-indicator' />
 											<span className='silver lh-copy'>
 												By checking this box, I consent to receiving product and marketing emails from
-												yourtrade. I understand that if I change my mind, I can opt out at any time. yourtrade
+												growthpointinvestld. I understand that if I change my mind, I can opt out at any time. growthpointinvestld
 												Broker is committed to protecting your information.​ Read our{" "}
 												<Link href='/legal/privacy'>
 													<a className='[#0018A8] no-underline'>Privacy Policy</a>
@@ -1157,7 +1157,7 @@ function ConnectWithUs() {
 									</div>
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3 black-50 pv3'>
-									If you are an individual looking to sign up for Your Trader Inc. Broker wallet services, please click{" "}
+									If you are an individual looking to sign up for Growthpoint Invest Ltd Inc. Broker wallet services, please click{" "}
 									<Link href='/auth/sign-up'>
 										<a className='[#0018A8] no-underline'>here</a>
 									</Link>{" "}

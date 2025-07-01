@@ -15,11 +15,11 @@ function PriceFeeds() {
 							<div className='mb5'>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									<a
-										href='https://yourtrade.github.io/yourtrade-docs/'
+										href='https://growthpointinvestld.github.io/growthpointinvestld-docs/'
 										className='[#0018A8] no-underline'
 										target='_BLANK'
 										rel='noopener noreferrer'>
-										Your Trader Inc. Broker Platform V1
+										Growthpoint Invest Ltd Inc. Broker Platform V1
 									</a>{" "}
 									transactions will be assessed a notional USD value using the Tradeblock XBX Index rate at the
 									time of the transaction. See Tradeblock&apos;s constituent prices and more information about the
@@ -35,11 +35,11 @@ function PriceFeeds() {
 								</div>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
 									<a
-										href='https://app.dashboard.yourtrade.com/docs/'
+										href='https://app.dashboard.growthpointinvestld.com/docs/'
 										className='[#0018A8] no-underline'
 										target='_BLANK'
 										rel='noopener noreferrer'>
-										Your Trader Inc. Broker Platform V2
+										Growthpoint Invest Ltd Inc. Broker Platform V2
 									</a>{" "}
 									transactions will be assessed a notional USD value using the BitcoinAverage rate at the time of
 									the transaction. See BitcoinAverage&apos;s methodology{" "}
@@ -55,7 +55,7 @@ function PriceFeeds() {
 							</div>
 							<div className='mb5'>
 								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>
-									Your Trader Inc. Broker Billing Methodology
+									Growthpoint Invest Ltd Inc. Broker Billing Methodology
 								</h4>
 								<div className='mb4'>
 									<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
@@ -81,11 +81,11 @@ function PriceFeeds() {
 								</div>
 								<h4 className='f4-ns f5 fw6 lh-title tracked-condensed mb3-l mb2'>Preservation of Value</h4>
 								<div className='sc-bdVaJa uNRti f5 f5-m f4-l lh-copy mb3'>
-									Your Trader Inc. Broker also intends to preserve value for customers. When forks occur with significant
-									value, Your Trader Inc. Broker will work with customers to attempt to deliver that new value to customers.
-									This may or may not mean that Your Trader Inc. Broker can support the coin as a fully featured wallet with
-									all the security principles that Your Trader Inc. Broker generally tries to maintain. It may mean that
-									Your Trader Inc. Broker provides customers with tools such that they can access the coin and convert it to
+									Growthpoint Invest Ltd Inc. Broker also intends to preserve value for customers. When forks occur with significant
+									value, Growthpoint Invest Ltd Inc. Broker will work with customers to attempt to deliver that new value to customers.
+									This may or may not mean that Growthpoint Invest Ltd Inc. Broker can support the coin as a fully featured wallet with
+									all the security principles that Growthpoint Invest Ltd Inc. Broker generally tries to maintain. It may mean that
+									Growthpoint Invest Ltd Inc. Broker provides customers with tools such that they can access the coin and convert it to
 									other forms of value.
 								</div>
 							</div>

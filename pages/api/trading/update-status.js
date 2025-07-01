@@ -60,7 +60,7 @@ async function handler(req, res) {
 			// TODO: update email message
 			htmlData = htmlData.replaceAll("[name]", userClient.firstname)
 			htmlData = htmlData.replaceAll("[message]", message)
-			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Your Trader")
+			htmlData = htmlData.replace(/\[brand\s+name\]/g, "Growthpoint Invest Ltd")
 
 			contract.status = "close"
 
@@ -68,7 +68,7 @@ async function handler(req, res) {
 
 			// TODO: send email
 			await transporter.sendMail({
-				from: "Your Trader", // sender address
+				from: "Growthpoint Invest Ltd", // sender address
 				to: userClient.email, // list of receivers
 				subject: "Trade status", // Subject line
 				text: message, // plain text body
