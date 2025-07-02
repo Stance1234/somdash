@@ -38,13 +38,15 @@ class MyDocument extends Document {
 	render() {
 		return (
 			<Html>
-				<Head>
-					{/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous" /> */}
-					<link href='https://fonts.googleapis.com' rel='preconnect' />
-					<link href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet' />
-					<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css' />
-					{/* <link href='/css/custom.css' rel='stylesheet' /> */}
-				</Head>
+			   <Head>
+				   {/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous" /> */}
+				   <link href='https://fonts.googleapis.com' rel='preconnect' />
+				   <link href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet' />
+				   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css' />
+				   <link rel='stylesheet' href='/css/reactapp-modules.css' />
+				   <link rel='stylesheet' href='/css/reactapp.css' />
+				   <link rel='stylesheet' href='/css/custom.css' />
+			   </Head>
 				<body>
 					<Main />
 					<NextScript />

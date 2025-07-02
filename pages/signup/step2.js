@@ -48,23 +48,29 @@ function Signup2({ data }) {
 				},
 				body: localStorage.getItem("TRADE_SIGNUP_PROCESS"),
 			})
-			const data = await res.json()
+			const contentType = res.headers.get("content-type")
+			if (contentType && contentType.includes("application/json")) {
+				const data = await res.json()
 
-			console.log(data)
+				console.log(data)
 
-			if (data.status === true) {
-				const res2 = await fetch("/api/auth/send-email-verification-pin", {
-					method: "POST",
-					headers: {
-						"Content-Type": "application/json",
-					},
-					body: JSON.stringify({ email: prevData.email }),
-				})
-				const data2 = await res2.json()
-				console.log(data2)
-				router.push("/signup/step3")
+				if (data.status === true) {
+					const res2 = await fetch("/api/auth/send-email-verification-pin", {
+						method: "POST",
+						headers: {
+							"Content-Type": "application/json",
+						},
+						body: JSON.stringify({ email: prevData.email }),
+					})
+					const data2 = await res2.json()
+					console.log(data2)
+					router.push("/signup/step3")
+				} else {
+					throw new Error(data.message)
+				}
 			} else {
-				throw new Error(data.message)
+				const text = await res.text()
+				throw new Error("Unexpected response: " + text)
 			}
 		} catch (error) {
 			setIsError(true)
