@@ -396,46 +396,34 @@ function TradeRoom({ categories, assets, tradingFund, openTrades }) {
                 <ul className="tabs">
                     <li className="tab">
                         <Link href="/user">
-                        
-                            <a title="Home"
-                                ><span className="material-icons notranslate">home</span
-                                ><span className="hide-on-small-only">Home</span></a
-                            >
+                            <a title="Home">
+                                <span className="material-icons notranslate">home</span>
+                                <span className="hide-on-small-only">Home</span>
+                            </a>
                         </Link>
                     </li>
                     <li className="tab">
-                        <Link href="/user/ptraderoom.html?menu=binary">
-                        
-                            <a
-                                title="Binary Options"
-                                className="active"
-                                ><span className="material-icons notranslate">access_time</span
-                                ><span className="hide-on-small-only">Binary Options</span></a
-                            >
+                        <Link href="/user/traderoom">
+                            <a title="Binary Options" className="active">
+                                <span className="material-icons notranslate">access_time</span>
+                                <span className="hide-on-small-only">Binary Options</span>
+                            </a>
                         </Link>
                     </li>
                     <li className="tab">
-                        <Link href="/user/ptraderoom.html?menu=open">
-                        
-                            <a
-                                title="Open Trades"
-                                className=""
-                                ><span className="material-icons notranslate"
-                                    >hourglass_top</span
-                                ><span className="hide-on-small-only">Open Trades</span></a
-                            >
+                        <Link href="/user/traderoom/open">
+                            <a title="Open Trades" className="">
+                                <span className="material-icons notranslate">hourglass_top</span>
+                                <span className="hide-on-small-only">Open Trades</span>
+                            </a>
                         </Link>
                     </li>
                     <li className="tab">
-                        <Link href="/user/ptraderoom.html?menu=closed">
-                        
-                            <a
-                                title="Closed Trades"
-                                className=""
-                                ><span className="material-icons notranslate"
-                                    >hourglass_full</span
-                                ><span className="hide-on-small-only">Closed Trades</span></a
-                            >
+                        <Link href="/user/traderoom/closed">
+                            <a title="Closed Trades" className="">
+                                <span className="material-icons notranslate">hourglass_full</span>
+                                <span className="hide-on-small-only">Closed Trades</span>
+                            </a>
                         </Link>
                     </li>
                 </ul>
