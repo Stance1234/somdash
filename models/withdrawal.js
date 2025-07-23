@@ -5,8 +5,21 @@ const userWithdrawalSchema = new mongoose.Schema({
     amount: Number,
     _balanceId: mongoose.Schema.Types.ObjectId, // mining or trading model id
     type: String, // mining, trading
-    method: String, // crypto, local
-    wallet_address: String,
+    method: { type: String, required: true }, // 'crypto' or 'local'
+    wallet_address: {
+        type: String,
+        default: '',
+        // Custom validation: required if method is 'crypto'
+        validate: {
+            validator: function(v) {
+                if (this.method === 'crypto') {
+                    return typeof v === 'string' && v.trim() !== '';
+                }
+                return true;
+            },
+            message: 'Wallet address is required for crypto withdrawals'
+        }
+    },
     bank_name: String,
     account_name: String,
     account_number: Number,

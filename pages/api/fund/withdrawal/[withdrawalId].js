@@ -1512,7 +1512,7 @@ async function handler(req, res) {
 				"msg",
 				"method",
 				"_userId",
-				"address",
+				"wallet_address",
 				"bank_name",
 				"account_name",
 				"account_number",
@@ -1529,7 +1529,8 @@ async function handler(req, res) {
 				msg: withdrawal.msg,
 				type: withdrawal.type,
 				method: withdrawal.method,
-				address: withdrawal.address,
+				// FIX: Use wallet_address, not address
+				wallet_address: withdrawal.wallet_address,
 				bank_name: withdrawal.bank_name,
 				account_name: withdrawal.account_name,
 				account_number: withdrawal.account_number,
