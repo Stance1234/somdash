@@ -4,7 +4,7 @@ import { toast } from 'react-toastify'
 
 
 function PaymentPurposeForm() {
-    const [data, setData] = useState({ name: "", desc: "", id: null, max: null, min: null, duration: 1, interestRate: 0.01 })
+    const [data, setData] = useState({ name: "", desc: "", id: null, max: null, min: null })
     const [isLoading, setIsLoading] = useState(false)
 
     async function handleSubmit() {
@@ -22,7 +22,7 @@ function PaymentPurposeForm() {
             const response = await res.json()
 
             if(response.status === true) {
-                setData({ name: "", desc: "", id: null, max: null, min: null, duration: 1, interestRate: 0.01 })
+                setData({ name: "", desc: "", id: null, max: null, min: null })
                 setIsLoading(false)
                 toast.success(response.message)
             } else {
@@ -97,29 +97,6 @@ function PaymentPurposeForm() {
                                     min="1"
                                     value={data.max}
                                     onChange={e => setData({ ...data, max: e.target.value })}
-                                />
-                            </div>
-                            <div className="form-group">
-                                <input
-                                    className="form-control"
-                                    placeholder="Enter Investment Duration (days)"
-                                    type="number"
-                                    required
-                                    min="1"
-                                    value={data.duration}
-                                    onChange={e => setData({ ...data, duration: e.target.value })}
-                                />
-                            </div>
-                            <div className="form-group">
-                                <input
-                                    className="form-control"
-                                    placeholder="Enter Annual Interest Rate (%)"
-                                    type="number"
-                                    required
-                                    min="0.01"
-                                    step="0.01"
-                                    value={data.interestRate}
-                                    onChange={e => setData({ ...data, interestRate: e.target.value })}
                                 />
                             </div>
                             <button disabled={isLoading} onClick={handleSubmit} className="btn ripple btn-main-primary">
