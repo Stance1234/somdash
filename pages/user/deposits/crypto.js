@@ -82,7 +82,7 @@ function UserDepositCrypto({ methods, purposes }) {
 							inputMode='decimal'
 							type='number'
 							id='amount'
-							min='100'
+							min='10'
 							step='any'
 							name='amount'
 							placeholder='Amount...'
