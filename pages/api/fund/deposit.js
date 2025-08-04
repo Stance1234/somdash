@@ -22,8 +22,8 @@ async function handler(req, res) {
 				return res.status(401).json({ status: false, message: "Transaction not possible for unathenticated user" })
 			}
 
-			if (parseInt(usd) < 100) {
-				return res.status(401).json({ status: false, message: "Minimum deposit is $100" })
+			if (parseInt(usd) < 10) {
+				return res.status(401).json({ status: false, message: "Minimum deposit is $10" })
 			}
 
 			if (!to) {
